@@ -6,47 +6,60 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.
 
 #EXTINF:-1 ,AXN
 #EXTGRP: colombia
-https://live.televisiongratishd.com/tvplus2023/78_.m3u8?token=4DXSXVniHfs9kmNiESzZ8A&expires=1614233062&ip=190.251.163.237
+http://209.126.108.5:25461/live/9b0f289018dc4f70907a364916fc3546/ea7c3cdd3a5347488e1f39325167472c/26.m3u8
 
-#EXTINF:-1 ,CANAL CARACOL
+#EXTINF:-1 , CARACOL
 #EXTGRP: colombia
-http://209.126.105.238:25461/live/ef93a0f4868c450f873502e0b7b7f7b0/14ea4aa4f56b43779f3d8b74229f6766/72.m3u8
+http://209.126.105.238:25461/live/94af70d840a646ddb586cc18abead702/2d8f051b7ff14518b14fbe837493b595/72.m3u8
 
-#EXTINF:-1 ,Cinemax
+#EXTINF:-1 ,CINECANAL
 #EXTGRP: colombia
-https://live.televisiongratishd.com/tvplus2023/43_.m3u8?token=I5qo2RwkDxFhO43k6qH-bQ&expires=1614233386&ip=190.251.163.237
+http://51.178.65.221:32325/live/4db143566bec4136b3baad700a00249c/f929331e598b40a88f2d4f3ed7985547/524.m3u8
 
 
-#EXTINF:-1 ,Cinecanal
+#EXTINF:-1 , CINEMAX
 #EXTGRP: colombia
-https://live.televisiongratishd.com/tvplus2023/44_.m3u8?token=hdslGui_vbVOtHhxv1vISA&expires=1614233498&ip=190.251.163.237
+http://158.69.116.209:25461/live/94c79bedbcb94d7ab4bdc852e946ca14/3c7fb167a1324b4fa0a67e37912cb46a/4.m3u8
 
 #EXTINF:-1 ,CNN
 #EXTGRP: colombia
-https://live.televisiongratishd.com/tvplus2023/66_.m3u8?token=0TJhpGCa1dhTlKLcv3-a_g&expires=1614233569&ip=190.251.163.237
+https://live.televisiongratishd.com/tvplus2023/66_.m3u8?token=UcKAe-kUOxJBHfxIYDP3WQ&expires=1614265222&ip=190.251.163.237
+
 #EXTINF:-1 ,DE PELICULA
 #EXTGRP: colombia
-https://live.televisiongratishd.com/tvplus2023/85_.m3u8?token=cfW6jgMkLn4Ei75Kc3d8Kg&expires=1614233638&ip=190.251.163.237
+https://live.televisiongratishd.com/tvplus2023/85_.m3u8?token=BPBx7s6zE7PL8ZOlQ_53zw&expires=1614265344&ip=190.251.163.237
+
+#EXTINF:-1 ,STUDIO UNIVERSAL
+#EXTGRP: colombia
+https://live.televisiongratishd.com/tvplus2023/80_.m3u8?token=SBW0fFx214-cW0DljtHy_A&expires=1614265514&ip=190.251.163.237
 
 #EXTINF:-1 ,GOLDEN EDGE
 #EXTGRP: colombia
-https://live.televisiongratishd.com/tvplus2023/74_.m3u8?token=NEs1lvAJEra24tA9ROmbfA&expires=1614233719&ip=190.251.163.237
+https://live.televisiongratishd.com/tvplus2023/74_.m3u8?token=XgO7rwqctBmoUMnwKn09vg&expires=1614265423&ip=190.251.163.237
 
 #EXTINF:-1 ,GOLDEN PLUS
 #EXTGRP: colombia
-https://live.televisiongratishd.com/tvplus2023/73_.m3u8?token=GP8_Wth2KCGW2MABNGP5Hg&expires=1614233806&ip=190.251.163.237
+http://209.126.105.238:25461/live/e522e841fada4269a105819d3dbab9f7/c685059f80db4f8688c7c652db196c39/12.m3u8
 
 #EXTINF:-1 ,GOLDEN PREMIER
 #EXTGRP: colombia
-https://live.televisiongratishd.com/tvplus2023/75_.m3u8?token=2MnUYNELyoA_d1xHkYdP9w&expires=1614233920&ip=190.251.163.237
+http://209.126.105.238:25461/live/da73d95f2d6b406796825a9c89c7d841/5cd740e605e046719a4ebc99d72fe425/13.m3u8
 
-#EXTINF:-1 ,STAR FUN
+#EXTINF:-1 ,HBO
 #EXTGRP: colombia
-http://51.178.65.221:32325/live/52a198eb42c54176b292b051ee718c25/63d989678bd9464db1badf6a2daaae1c/506.m3u8
+http://209.126.105.238:25461/live/ad5722beca2f4f818465f00c728c1959/9cdef5d5395f45cda44e29fdd7d6ba09/30.m3u8
+
+#EXTINF:-1 ,STAR ACCIÓN
+#EXTGRP: colombia
+http://209.126.105.238:25461/live/6fa585b2435f47ba9502653ac4168890/6a428bf192e743d6a5b1f68b021e469f/22.m3u8
 
 #EXTINF:-1 ,STAR SERIES
 #EXTGRP: colombia
-http://51.178.65.221:32325/live/64902c6b278b444d901e677cbee6fdf8/81c7ef07377242ec89c15f43dbf8c8fe/505.m3u8
+http://209.126.105.238:25461/live/06c3b830e75245738bad779e1dae6e02/349d6d1bbe934a8188c5b7a22511d171/46.m3u8
+
+#EXTINF:-1 ,STARZ
+#EXTGRP: colombia
+http://209.126.105.238:25461/live/5c06294795ea4d5ab7736e1beee0dd3d/d1e31464ff404247a1e20368b42e0399/52.m3u8
 
 #EXTINF:-1 ,Telesur costarica
 #EXTGRP: colombia
