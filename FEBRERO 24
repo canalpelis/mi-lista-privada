@@ -8,6 +8,10 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.
 #EXTGRP: colombia
 http://209.126.108.5:25461/live/9b0f289018dc4f70907a364916fc3546/ea7c3cdd3a5347488e1f39325167472c/26.m3u8
 
+#EXTINF:-1 , RCN
+#EXTGRP: colombia
+http://209.126.105.238:25461/live/d8ae756cf26748ecb527f2fc89b0713d/b95bfc09a50443abb24c592c170233b1/82.m3u8
+
 #EXTINF:-1 , CARACOL
 #EXTGRP: colombia
 http://209.126.105.238:25461/live/94af70d840a646ddb586cc18abead702/2d8f051b7ff14518b14fbe837493b595/72.m3u8
