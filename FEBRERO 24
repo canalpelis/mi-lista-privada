@@ -1,0 +1,438 @@
+#EXTM3U
+
+#EXTINF:-1 ,AMORDISCOS AGOSTO
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8
+
+#EXTINF:-1 ,Telesur costarica
+#EXTGRP: colombia
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+
+#EXTINF:-1 ,Zee Mundo
+#EXTGRP: colombia
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 ,DW Español
+#EXTGRP: colombia
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+
+#EXTINF:-1 ,Teleislas
+#EXTGRP: colombia
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+
+#EXTINF:-1 ,Teleritmo
+#EXTGRP: colombia
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 ,Canal capital
+#EXTGRP: colombia
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
+
+#EXTINF:-1 ,VC Online HD
+#EXTGRP:colombia
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
+
+#EXTINF:-1 ,Ticavision
+#EXTGRP: colombia
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+
+#EXTINF:-1 ,Telemax
+#EXTGRP: colombia
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+
+#EXTINF:-1 ,Cachipum tv
+#EXTGRP: colombia
+http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8
+
+#EXTINF:-1 ,PERU:Central TV
+#EXTGRP:colombia
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
+#EXTINF:-1 ,PERU:BHtv
+#EXTGRP:colombia
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 ,TV PERu
+#EXTGRP:colombia
+https://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1 ,Red Advenir
+#EXTGRP:colombia
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 ,CBN Español
+#EXTGRP:colombia
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 ,RTN TV
+#EXTGRP:colombia
+http://media.neuquen.gov.ar/rtn/television/chunklist_w2042779766.m3u8
+
+#EXTINF:-1 ,Medios Rioja
+#EXTGRP:colombia
+http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8
+
+#EXTINF:-1 ,Uestv
+#EXTGRP:colombia
+http://cl.origin.grupoz.cl/uestv/live/chunklist_w694016780.m3u8
+
+#EXTINF:-1 ,RTN NEUQUEN
+#EXTGRP:colombia
+http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
+
+#EXTINF:-1 ,CUATRO DE SAN JUAN
+#EXTGRP:colombia
+http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist_w931974462.m3u8
+
+#EXTINF:-1 ,Canal 4 Posadas
+#EXTGRP:colombia
+http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
+
+#EXTINF:-1 ,MULTIVICION
+#EXTGRP:colombia
+http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
+
+#EXTINF:-1 ,Canal 4 SD
+#EXTGRP:colombia
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+
+#EXTINF:-1 ,Multimedios Laguna HD
+#EXTGRP:colombia
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1 ,PAT (La Paz)
+#EXTGRP:colombia
+http://192.99.38.174:1935/patbolivia/patlapaz/chunklist_w829041430.m3u8
+
+#EXTINF:-1 ,Telesur
+#EXTGRP:colombia
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+
+#EXTINF:-1 ,CDM
+#EXTGRP:colombia
+http://live247tv.net:1935/marcos536/marcos536/chunklist_w704457421.m3u8
+
+#EXTINF:-1 ,TV Ebenezer
+#EXTGRP:colombia
+http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2/live.m3u8
+
+#EXTINF:-1 ,Microvision
+#EXTGRP:colombia
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+
+#EXTINF:-1 ,TEN HD 
+#EXTGRP:colombia
+http://stream.grupoabchn.com:1935/TENHD/smil:TENLive.smil/playlist.m3u8
+
+#EXTINF:-1 ,Teleceiba 
+#EXTGRP:colombia
+http://190.11.224.14:8134/liveevent.m3u8
+
+#EXTINF:-1 ,EXTREMA TV
+#EXTGRP:colombia
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 ,TELEMAX ARG
+#EXTGRP:colombia
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1 ,Multimedios Monterrey
+#EXTGRP:colombia
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 ,CANAL 10 CHETUMAL
+#EXTGRP:colombia
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF:-1 ,FASHION TV
+#EXTGRP:colombia
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+
+#EXTINF:-1 ,PIGUINO TV HD
+#EXTGRP:colombia
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+
+#EXTINF:-1 ,Wow TV
+#EXTGRP:colombia
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
+#EXTINF:-1 ,Telesur (Costa Rica)
+#EXTGRP:colombia
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+
+#EXTINF:-1 ,Milenio TV
+#EXTGRP: "colombia"
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1 ,Canal Once
+#EXTGRP: "colombia"
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
+
+#EXTINF:-1 ,Redada Asesina
+#EXTGRP: "PELICULAS"
+https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+
+#EXTINF:-1 ,JIGSAW VIII
+#EXTGRP:"PELICULAS"
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+
+#EXTINF:-1 ,Intensamente
+#EXTGRP:"PELICULAS"
+https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+
+#EXTINF:-1 ,Terminus
+#EXTGRP: "PELICULAS"
+https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+
+#EXTINF:-1 ,The Cloverfield Paradox
+#EXTGRP: "PELICULAS"
+https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+
+#EXTINF:-1 ,Nosotros los nobles
+#EXTGRP:"PELICULAS"
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+
+#EXTINF:-1 ,American pie
+#EXTGRP:"PELICULAS"
+https://bit.ly/2KS5ucG
+
+#EXTINF:-1 ,Deadpool
+#EXTGRP: "PELICULAS"
+https://ia800108.us.archive.org/24/items/DeSRREGIO_201802/DeSRREGIO.mp4
+
+#EXTINF:-1 ,MUSICTOP
+#EXTGRP:colombia
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 ,CANAL 4 
+#EXTGRP:colombia
+http://184.154.28.210:1935/canal4/canal4/live.m3u8
+
+#EXTINF:-1 ,CANAL 26
+#EXTGRP:colombia
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w731534597_b2628000_sleng.m3u8
+
+#EXTINF:-1 ,TELESUR VENEZUELA
+#EXTGRP:colombia 
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
+
+#EXTINF:-1 ,VIDEO MIX
+#EXTGRP:colombia 
+https://ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ%20Panduro%20-%20Video%20Yearmix%202009.mp4
+
+#EXTINF:-1 ,POPULARISIMA ESTEREO
+#EXTGRP:colombia "EMISORAS"
+https://radiohd.streaminghd.co:7390/stream
+
+#EXTINF:-1 ,UIS AM
+#EXTGRP:colombia "EMISORAS"
+http://emisoras.uis.edu.co:8000/mp3am
+
+#EXTINF:-1 ,SOPETRAN ESTEREO
+#EXTGRP:colombia "EMISORAS"
+http://62.210.38.137:8320/;
+
+#EXTINF:-1 ,UNI NORTE
+#EXTGRP:colombia "EMISORAS"
+http://cactus2.uninorte.edu.co:1755/;stream.mp3
+
+#EXTINF:-1 ,VOCES ROVIRENCES
+#EXTGRP:colombia "EMISORAS"
+http://163.172.198.16:8626/index.html.mp3
+
+#EXTINF:-1 ,CANTAR DE LOS ANDES
+#EXTGRP:colombia "EMISORAS"
+http://62.210.38.137:8108/web/;web.mp3
+
+#EXTINF:-1 ,LA VIEJOTECA
+#EXTGRP:colombia "EMISORAS"
+https://radio30.virtualtronics.com/proxy/laviejotecadejulio?mp=/stream
+
+#EXTINF:-1 ,RADIO CANTICOS DEL AYER
+#EXTGRP:colombia "EMISORAS"
+http://stm6.miradio.com.es:7526/;
+
+#EXTINF:-1 ,ARRIBA COLOMBIA
+#EXTGRP:colombia "EMISORAS"
+http://cdn.instream.audio:9137/stream
+
+#EXTINF:-1 ,PAMPLONA RADIO
+#EXTGRP:colombia "EMISORAS"
+https://play10.tikast.com/proxy/sainmesc?mp=/stream
+
+#EXTINF:-1 ,TROPICANAL TROPICAL
+#EXTGRP:colombia "EMISORAS"
+https://node-22.zeno.fm/s7znfh2929duv?rj-ttl=5&rj-tok=AAABclkzWssALNT0blna3jL4Kg
+
+#EXTINF:-1 ,RADIO SUR COLOMBIANA NEIVA
+#EXTGRP:colombia "EMISORAS"
+http://198.27.83.198:5562/stream
+
+#EXTINF:-1 ,SOY COLOMBIANO
+#EXTGRP:colombia "EMISORAS"
+http://albireo.shoutca.st:8453/stream
+
+#EXTINF:-1 ,AIRES DE COLOMBIA
+#EXTGRP:colombia "EMISORAS"
+http://195.154.133.107:8015/stream
+
+#EXTINF:-1 ,RADIO SANTA BARBARA
+#EXTGRP:colombia "EMISORAS"
+http://sc1.cehis.net:8010/stream
+
+#EXTINF:-1 ,CRISTALINA PLUS 
+#EXTGRP:colombia "EMISORAS"
+http://142.4.217.133:8222/cristalinaplus
+
+#EXTINF:-1 ,RADIO RELOJ CALI
+#EXTGRP:colombia "EMISORAS"
+https://securestreams.eu:1296/stream.mp3
+
+#EXTINF:-1 ,HUILA ESTEREO
+#EXTGRP:colombia "EMISORAS"
+http://radiohd.streaminghd.co:8217/live
+
+#EXTINF:-1 ,TROPIRECUERDOS
+#EXTGRP:colombia "EMISORAS"
+http://www.virtualtronics.net:8207/;?1501846878278.mp3
+
+#EXTINF:-1 ,NOSTALGIA RADIO
+#EXTGRP:colombia "EMISORAS"
+https://emisorasvirtuales.com.co:9003/live
+
+#EXTINF:-1 ,RADIO MUSICA INSTRUMENTAL CRISTIANA
+#EXTGRP:colombia "EMISORAS"
+http://stm7.miradio.com.es:11990/;
+
+#EXTINF:-1 ,RADIO MUSICA LLANERA
+#EXTGRP:colombia "EMISORAS"
+http://192.99.203.81:8704/stream
+
+#EXTINF:-1 ,RADIO GUATAPURI
+#EXTGRP:colombia "EMISORAS"
+http://198.27.88.38:7106/;
+
+#EXTINF:-1 ,LA CALLE
+#EXTGRP:colombia "EMISORAS"
+https://18533.live.streamtheworld.com/LA_KALLE.mp3
+
+#EXTINF:-1 ,RADIO IPUC
+#EXTGRP:colombia "EMISORAS"
+http://62.210.141.243:8057/stream/1/
+
+#EXTINF:-1 ,RCN RADIO
+#EXTGRP:colombia "EMISORAS"
+https://21933.live.streamtheworld.com/RCN_RADIO_FM_SC
+
+#EXTINF:-1 ,W RADIO
+#EXTGRP:colombia "EMISORAS"
+https://19483.live.streamtheworld.com/WRADIO_SC
+
+#EXTINF:-1 ,Folcrorica estereo
+#EXTGRP:colombia "EMISORAS"
+https://radio30.virtualtronics.com/proxy/folklorica?mp=/stream
+
+#EXTINF:-1 ,voces Rovirenses
+#EXTGRP:colombia "EMISORAS"
+https://play10.tikast.com/proxy/vocesrovirenses?mp=/stream
+
+#EXTINF:-1 ,Blu Radio
+#EXTGRP:colombia "EMISORAS"
+https://18213.live.streamtheworld.com/BLURADIO.mp3
+
+#EXTINF:-1 ,Mundo +
+#EXTGRP:colombia
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+
+#EXTINF:-1 ,TELERED COSTARICA 2
+#EXTGRP:colombia
+http://k4.usastreams.com:80/ARBtv/teleplus/chunklist_w1071898513.m3u8
+
+#EXTINF:-1 ,TELERED COSTARICA
+#EXTGRP:colombia
+http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
+
+#EXTINF:-1 ,RED MAS
+#EXTGRP:colombia
+http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8
+
+#EXTINF:-1 ,TELERED CHILE
+#EXTGRP:colombia
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+
+#EXTINF:-1 ,CGTN Spañol
+#EXTGRP:colombia
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+
+#EXTINF:-1 tvg-id="TeleSUR.TDTChannelsEPG" tvg-logo="https://graph.facebook.com/teleSUR/picture?width=320&height=320" group-title="colombia" tvg-name="TeleSUR Venezuela",TeleSUR Venezuela
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/eurolatinatelevision/picture?width=320&height=320" group-title="colombia" tvg-name="EuroLatina TV",EuroLatina TV
+https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_400x400.jpg" group-title="colombia" tvg-name="Garage TV",Garage TV
+http://186.0.233.76:1935/Garage/garage.smil/.m3u8
+
+#EXTINF:-1 ,Telered
+#EXTGRP:colombia
+http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.unored.tv/wp-content/uploads/2015/08/Extrema-TV-logo.jpg" group-title="colombia", Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="colombia",LOGOS TV
+http://streamer1.streamhost.org:1935/salive/GMIalfam/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="colombia", MEXICO:RTQ Queretaro
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="colombia", TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="colombia", Telesur (Costa Rica)
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="colombia", Entretenimiento:Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="colombia", PIGUINO TV HD
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="colombia", CANAL WOW
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="colombia", RETRO MUSIC TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1652320907.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="colombia",FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="colombia", ARGENTINA:Canal 26 Buenos Aires (Opt-2)
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="colombia", ARGENTINA:Radio TV Neuquen
+http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EMISORAS", Hotmixradio 80Â¥S
+http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="colombia", LATINO:CGTN
+http://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="colombia", LATINO:TV Marti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="colombia", Latinos:TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?Latinos.m3u8
+
+#EXTINF:1,CANAL 13 ARGENTINA
+#EXTGRP:colombia
+http://coninfo.net:1935/13maxhd/live_720p/.m3u8
+
+#EXTINF:1,AMORDISCOS
+#EXTGRP:colombia
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8
+
+
+
+
