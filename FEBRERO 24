@@ -4,6 +4,10 @@
 #EXTGRP: colombia
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8
 
+#EXTINF:-1 ,CANAL UNO
+#EXTGRP: colombia
+http://209.126.105.238:25461/live/ab93b7d3d15d4210a6b6e2137ea49f7c/9a6b17f83c8944d6aea28e8ba8560407/76.m3u8
+
 #EXTINF:-1 , RCN
 #EXTGRP: colombia
 http://209.126.105.238:25461/live/d8ae756cf26748ecb527f2fc89b0713d/b95bfc09a50443abb24c592c170233b1/82.m3u8
@@ -44,17 +48,9 @@ http://51.178.65.221:32325/live/4db143566bec4136b3baad700a00249c/f929331e598b40a
 #EXTGRP: colombia
 http://158.69.116.209:25461/live/10bcf9b2570e4d38bad788cd93c6f265/902335b5f5314b32b7a8a136a7a2aa81/3.m3u8
 
-#EXTINF:-1 , CINEMAX
-#EXTGRP: colombia
-http://158.69.116.209:25461/live/94c79bedbcb94d7ab4bdc852e946ca14/3c7fb167a1324b4fa0a67e37912cb46a/4.m3u8
-
-#EXTINF:-1 ,CANAL UNO
-#EXTGRP: colombia
-http://209.126.105.238:25461/live/ab93b7d3d15d4210a6b6e2137ea49f7c/9a6b17f83c8944d6aea28e8ba8560407/76.m3u8
-
 #EXTINF:-1 ,DE PELICULA
 #EXTGRP: colombia
-http://209.126.105.238:25461/live/ab93b7d3d15d4210a6b6e2137ea49f7c/9a6b17f83c8944d6aea28e8ba8560407/76.m3u8
+http://51.178.65.221:32325/live/3acc7f1d59474cb894facaab8296eb1e/72062dbf7b824b07abb8a0e1ab1937bb/541.m3u8
 
 #EXTINF:-1 ,STUDIO UNIVERSAL
 #EXTGRP: colombia
