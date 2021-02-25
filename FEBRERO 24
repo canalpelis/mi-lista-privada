@@ -4,6 +4,10 @@
 #EXTGRP: colombia
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8
 
+#EXTINF:-1 ,AXN
+#EXTGRP: colombia
+https://live.televisiongratishd.com/tvplus2023/78_.m3u8?token=4DXSXVniHfs9kmNiESzZ8A&expires=1614233062&ip=190.251.163.237
+
 #EXTINF:-1 ,CANAL CARACOL
 #EXTGRP: colombia
 http://209.126.105.238:25461/live/ef93a0f4868c450f873502e0b7b7f7b0/14ea4aa4f56b43779f3d8b74229f6766/72.m3u8
