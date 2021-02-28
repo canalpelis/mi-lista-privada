@@ -6,43 +6,39 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.
 
 #EXTINF:-1 ,CANAL UNO
 #EXTGRP: colombia
-http://209.126.105.238:25461/live/d345c91b088744f388aac13e2bf21842/4c1da68b4c4a4aa7aa82b0fcdf4692f2/76.m3u8
+http://209.126.105.238:25461/live/466f26df86cc40aba48f5f934a6ef604/005f4f057a32463abcf10262f788e20f/76.m3u8
 
 #EXTINF:-1 , RCN
 #EXTGRP: colombia
-http://209.126.105.238:25461/live/72e8c7318e9e487793098e86cd8d3f16/81d5445d0d484ec499523d318ee32143/82.m3u8
+http://209.126.105.238:25461/live/33f8c21c6e2047a6adce49a0113703b9/6158e86c09ad4f128cd3f782c03232b1/82.m3u8
 
 #EXTINF:-1 , CARACOL
 #EXTGRP: colombia
-http://209.126.105.238:25461/live/d06dfe1fbd954985bb8c96878d500787/7ea25c44d06e47ec9fdf7b4e51278529/72.m3u8
-
-#EXTINF:-1 , CARACOL INTERNACIONAL
-#EXTGRP: colombia
-http://209.126.105.238:25461/live/61324c9159704aa3b05dd353f88f0c48/fffae0e42a064fefbd2399b7ffb749b4/73.m3u8
+http://209.126.105.238:25461/live/4d185e5282434d28bdff88c65b6ddbcd/f1c79153936c43ce8331d56f3822fbc5/72.m3u8
 
 #EXTINF:-1 , CITY TV
 #EXTGRP: colombia
-http://209.126.105.238:25461/live/cb8b8c0665704681b54f976515b38a8b/436dbeb18fa240e198a048a5f0c5d90a/77.m3u8
+http://209.126.105.238:25461/live/076e0bcbb26f481ba566c38ee0e8b2d4/7e4ac5ba9e2b4392a94e70d72f7ff84b/77.m3u8
 
 #EXTINF:-1 , AZTECA 1
 #EXTGRP: colombia
-https://live.televisiongratishd.com/tvplus2023/52_.m3u8?token=nshlIF8g9nWyVujKVVC14g&expires=1614434675&ip=190.251.163.237
+http://51.178.65.221:32325/live/a1cd680959644858acafff6ce7ddbcca/c6dfb8e5a395480096e8b8037c84b931/493.m3u8
 
 #EXTINF:-1 , AZTECA CORAZON
 #EXTGRP: colombia
-http://51.178.65.221:32325/live/45104ff6b0b3446bb8dbca29737e05f5/a7a5442b40494c8db0dc73c881ccf175/498.m3u8
+http://51.178.65.221:32325/live/bf3b0c13a7aa44fd8517987cd0de41fb/0e2998c1cf364e42ad7a38c22369004a/498.m3u8
 
 #EXTINF:-1 , AZTECA CINEMA
 #EXTGRP: colombia
-http://51.178.65.221:32325/live/935449c423c9432bbc982cd4ed80c72e/4aa669da8fc04a509842e4f85648d4f9/496.m3u8
+http://51.178.65.221:32325/live/ed5bb606c1c54c1fb3025efcad70c4f8/a70e94c6410141a599a23f4257bc99b6/496.m3u8
 
 #EXTINF:-1 , AZTECA MUNDO
 #EXTGRP: colombia
-http://51.178.65.221:32325/live/290d2133b024453ca260f751bfb30fe2/354ebadb1dd14640ae22b01bd32ede28/497.m3u8
+http://51.178.65.221:32325/live/07b24dbf158c4f2ebbe4b25c7101aba5/d1896d29a83a4774a845a9e0245f3256/497.m3u8
 
 #EXTINF:-1 ,AXN
 #EXTGRP: colombia
-https://live.televisiongratishd.com/tvplus2023/78_.m3u8?token=8mbO52BxqTypN1e9_pDxCg&expires=1614434973&ip=190.251.163.237
+http://51.178.65.221:32325/live/f5459af5e7f14f2b85f440574c493357/bee1e38404f946f79af717464380953c/527.m3u8
 
 #EXTINF:-1 ,A&E 
 #EXTGRP: colombia
@@ -50,39 +46,39 @@ http://51.178.65.221:32325/live/342f9e0c6e7e44e9838f6cbb7c378a9d/6efeb34c087f49b
 
 #EXTINF:-1 ,AMC
 #EXTGRP: colombia
-http://209.126.105.238:25461/live/973eee32492b4fac8fa550e354cee342/1f54cb83b65b4fc584bb7fca88ef7d02/8.m3u8
+http://51.178.65.221:32325/live/c3be9258781e42cdb0af436e9645445b/7f8b60b2ff5e46a8ba50688549f90ee2/528.m3u8
 
 #EXTINF:-1 ,SPACE
 #EXTGRP: colombia
-http://209.126.105.238:25461/live/446111d4b57b4fbda0f359c5281b54f1/4271604e31524135b1040cb705adc97c/58.m3u8
+http://51.178.65.221:32325/live/68d1ba14e5e247e4bcfe27f1b68ab18f/98003c91ea8d4619b60d3aeea65e4777/533.m3u8
 
 #EXTINF:-1 ,TNT
 #EXTGRP: colombia
-https://live.televisiongratishd.com/tvplus2023/41_.m3u8?token=fpYWT8Hl0fJjSmUpdUHNYw&expires=1614435527&ip=190.251.163.237
+http://51.178.65.221:32325/live/b14b8f6c03ec4ebf8b10bd1fa48fe693/cd899c79dc7747729fede669e08b8e73/525.m3u8
 
 #EXTINF:-1 ,TNT SERIES
 #EXTGRP: colombia
-http://209.126.108.5:25461/live/8bc2a06cac654591bd9bc905849340d5/79840760ef7e4d5dbced574bac267641/30.m3u8
+http://51.178.65.221:32325/live/318b13a0c57a433d92c49257a38a2487/cf4e8fdbd5364e2099b0e8d688353760/526.m3u8
 
 #EXTINF:-1 ,TNT SPORTS
 #EXTGRP: colombia
-http://145.239.2.125:32325/live/333a65d361ab4da4b1408d4f16ab11aa/7775d85ae8ab457fa1bf1b1e1800383e/14.m3u8
+http://145.239.2.125:32325/live/072dac65c8ab499f98a92ed6b12aa784/4beaa2770d3841078af921cb7f0175d5/14.m3u8
 
-#EXTINF:-1 ,TCM ESPAÑA
+#EXTINF:-1 ,TCM 
 #EXTGRP: colombia
-http://51.178.65.221:32325/live/ac31f13ef46845228e46f82b0f49a9f5/9bd06b82a17c492ebea25d9798f3a029/135.m3u8
+http://51.178.65.221:32325/live/6a76d06716e345fc9fd2970d34cd52df/295859c2a3b04bbea52df99a121a598e/529.m3u8
 
 #EXTINF:-1 ,A3SERIES ESPAÑA
 #EXTGRP: colombia
-http://51.178.65.221:32325/live/1a1171033bcf456ab75498a1c82f0496/40e0a4d774a9458593994d3b84cf8ea2/163.m3u8
+https://cortino2.mitopo.me/live/atreseries/index.m3u8?token=hs2nCsSszGw4BbWMFD5YCA&expires=1614618801
 
 #EXTINF:-1 , MOVISTAR ACCIÓN ESPAÑA
 #EXTGRP: colombia
-http://209.126.105.238:25461/live/c66ac4da36b147af98231b7cd2e1e0ea/f900c35b81bb47e5ac045f6157dd6273/16.m3u8
+https://cortino6.mitopo.me/live/plusaccion/index.m3u8?token=_GLo_7TmRPXgVZ_b1XsYCw&expires=1614618874
 
 #EXTINF:-1 , MOVISTAR COMEDIA ESPAÑA
 #EXTGRP: colombia
-https://cortino4.mitopo.me/live/comedia/index.m3u8?token=AhGi9I7Gcr7AOOE8rHPXwA&expires=1614518916
+https://cortino7.mitopo.me/live/comedia/index.m3u8?token=gQR5Y76S910r7xPcvfiBlQ&expires=1614618938
 
 #EXTINF:-1 ,HISTORY
 #EXTGRP: colombia
