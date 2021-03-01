@@ -20,6 +20,14 @@ http://209.126.105.238:25461/live/6d7858a54df14885a12c6216c5f48970/9c409973d4e34
 #EXTGRP: colombia
 http://209.126.105.238:25461/live/44d0ec8ed2764e9095d63c9c8e54f419/c94c159379314313b5d4c87987d031da/77.m3u8
 
+#EXTINF:-1 , CANAL TRO
+#EXTGRP: colombia
+http://xtremesportsplus.myq-see.com:8080/live/peppe/peppe/16986.ts
+
+#EXTINF:-1 , NTN
+#EXTGRP: colombia
+http://xtremesportsplus.myq-see.com:8080/live/peppe/peppe/17599.ts
+
 #EXTINF:-1 , AZTECA 1
 #EXTGRP: colombia
 http://51.178.65.221:32325/live/32237f9659b949aeb54f0aca5b8a0686/05b2b24ff5114ca498c7d895224bb657/493.m3u8
