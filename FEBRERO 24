@@ -380,6 +380,10 @@ https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
 #EXTGRP:"PELICULAS"
 https://bit.ly/2KS5ucG
 
+#EXTINF:-1 ,A DESCUBIERTO
+#EXTGRP:"PELICULAS"
+http://xtremesportsplus.myq-see.com:8080/movie/peppe/peppe/25018.mp4
+
 #EXTINF:-1 ,Deadpool
 #EXTGRP: "PELICULAS"
 https://ia800108.us.archive.org/24/items/DeSRREGIO_201802/DeSRREGIO.mp4
