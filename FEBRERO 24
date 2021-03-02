@@ -4,190 +4,157 @@
 #EXTGRP: colombia
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8
 
-#EXTINF:-1 ,CANAL UNO
-#EXTGRP: colombia
-http://209.126.105.238:25461/live/d74f36914a5448bc904ca84ddebaab85/7e9ff8a5cde24a6eb82f2319380fa27c/76.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgur.com/TviWIyE.png" group-title="INFO",TECNOTV SMARTV
+http://tecnotv.club/ggt/smartv.php?c=136_&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="INFO",1/Mar/2021
+http://tecnotv.club/ggt/smartv.php?c=136_&f=.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="INFO",Telegram: @Tecnotv
+http://tecnotv.club/ggt/smartv.php?c=136_&f=.m3u8
 
-#EXTINF:-1 , RCN
-#EXTGRP: colombia
-http://209.126.105.238:25461/live/d2fdc5f1a5fd4900b5d92807e2d00903/347cd024b82e4b2bb3f447b7a6e9c046/82.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/aztecauno_thumb.png" group-title="TV PREMIUM",AZTECA UNO MX
+http://tecnotv.club/ggt/smartv.php?c=136_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/canal2hd_thumb.png" group-title="TV PREMIUM",CANAL 2 MX
+http://tecnotv.club/ggt/smartv.php?c=135_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/canal5hd_thumb_nxdwanla.png" group-title="TV PREMIUM",CANAL 5 MX
+http://tecnotv.club/ggt/smartv.php?c=134_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/azteca_7_thumb_msqleg9z.png" group-title="TV PREMIUM",AZTECA 7 MX
+http://tecnotv.club/ggt/smartv.php?c=133_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/azteca7_hd_thumb_kmb7nz3e.png" group-title="TV PREMIUM",AZTECA 7 HD
+http://tecnotv.club/ggt/smartv.php?c=1877_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/canal-nueve_thumb.png" group-title="TV PREMIUM",NUEVE
+http://tecnotv.club/ggt/smartv.php?c=1541_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/imagen-television_thumb_782zb3ya.png" group-title="TV PREMIUM",IMAGEN TV
+http://tecnotv.club/ggt/smartv.php?c=130_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/foxaction_thumb_650zv1c1.png" group-title="TV PREMIUM",FOX ACTION
+http://tecnotv.club/ggt/smartv.php?c=170_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/SPACEHD_thumb.png" group-title="TV PREMIUM",SPACE
+http://tecnotv.club/ggt/smartv.php?c=180_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/adrenalina_thumb_uy5mzlde.png" group-title="TV PREMIUM",ADRENALINA
+http://tecnotv.club/ggt/smartv.php?c=265_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/aym_thumb_ezo3fpon.png" group-title="TV PREMIUM",AyM Sports
+http://tecnotv.club/ggt/smartv.php?c=262_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/basket-americas_thumb.png" group-title="TV PREMIUM",BASKET AMERICAS
+http://tecnotv.club/ggt/smartv.php?c=1572_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/bein-n-sports_thumb_uyp2kmyj.png" group-title="TV PREMIUM",BEIN SPORTS Ñ
+http://tecnotv.club/ggt/smartv.php?c=1844_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/bein-sports-la-liga_thumb_tff9fa3j.png" group-title="TV PREMIUM",BEIN SPORTS HD
+http://tecnotv.club/ggt/smartv.php?c=1844_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/claro_sports_thumb.png" group-title="TV PREMIUM",CLARO SPORTS
+http://tecnotv.club/ggt/smartv.php?c=1868_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/espn-deportes_thumb_aacotgfl.png" group-title="TV PREMIUM",ESPN Deportes
+http://tecnotv.club/ggt/smartv.php?c=1837_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/espn-mexico_thumb_unkceuug.png" group-title="TV PREMIUM",ESPN 1 MX
+http://tecnotv.club/ggt/smartv.php?c=1876_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/espn-2-mexico_thumb_gc4xc9g8.png" group-title="TV PREMIUM",ESPN 2 MX
+http://tecnotv.club/ggt/smartv.php?c=131_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/espn-3-mexico_thumb_zmtk64z4.png" group-title="TV PREMIUM",ESPN 3 MX
+http://tecnotv.club/ggt/smartv.php?c=1391_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/espn-extra_thumb_v5t5c0ud.png" group-title="TV PREMIUM",ESPN EXTRA
+http://tecnotv.club/ggt/smartv.php?c=258_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/espn_thumb_j38x1m4y.png" group-title="TV PREMIUM",ESPN 1 LA
+http://tecnotv.club/ggt/smartv.php?c=_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/espnla_thumb_kys25671.png" group-title="TV PREMIUM",ESPN 2 LA
+http://tecnotv.club/ggt/smartv.php?c=1834_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/espn3_thumb_t4o6nufq.png" group-title="TV PREMIUM",ESPN 3 LA
+http://tecnotv.club/ggt/smartv.php?c=1836_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/fox-sports-mexico_thumb_ogg91p4g.png" group-title="TV PREMIUM",FOX SPORTS 1 MX
+http://tecnotv.club/ggt/smartv.php?c=1873_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/fox-sports-2-mexico_thumb_ire81j6c.png" group-title="TV PREMIUM",FOX SPORTS 2 MX
+http://tecnotv.club/ggt/smartv.php?c=260_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/fox-sports-3_thumb_iuz8bwyo.png" group-title="TV PREMIUM",FOX SPORTS 3 MX
+http://tecnotv.club/ggt/smartv.php?c=261_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/fox-sports_thumb_yrc7bnpo.png" group-title="TV PREMIUM",FOS SPORTS 1 LA
+http://tecnotv.club/ggt/smartv.php?c=1851_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/fox-sports-2_thumb_nh8l6vwv.png" group-title="TV PREMIUM",FOX SPORTS 2 LA
+http://tecnotv.club/ggt/smartv.php?c=1850_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/fox-sports-3_thumb_tckesy09.png" group-title="TV PREMIUM",FOX SPORTS 3 LA
+http://tecnotv.club/ggt/smartv.php?c=1394_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/caracol-hd_thumb_ybotu7fs.png" group-title="TV PREMIUM",CARACOL
+http://tecnotv.club/ggt/smartv.php?c=74_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/galavision_thumb_hra9dw5v.png" group-title="TV PREMIUM",GALAVISION
+http://tecnotv.club/ggt/smartv.php?c=1756_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/golf-hd_thumb_1pljbk6n.png" group-title="TV PREMIUM",GOLF CHANNEL
+http://tecnotv.club/ggt/smartv.php?c=253_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/nbcsn_thumb_x4eybjw0.png" group-title="TV PREMIUM",NBCSN
+http://tecnotv.club/ggt/smartv.php?c=1789_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/NFL_logo_thumb_r29zzwtg.png" group-title="TV PREMIUM",NFL NETWORK
+http://tecnotv.club/ggt/smartv.php?c=83_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/havoc_thumb_2f3eknhx.png" group-title="TV PREMIUM",HAVOC
+http://tecnotv.club/ggt/smartv.php?c=266_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/las_thumb_6od2dgyd.png" group-title="TV PREMIUM",LAS Deportes
+http://tecnotv.club/ggt/smartv.php?c=263_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/rai-italia_thumb_40vpsggx.png" group-title="TV PREMIUM",RAI ITALIA
+http://tecnotv.club/ggt/smartv.php?c=1545_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/rcn_thumb_v9han5w5.png" group-title="TV PREMIUM",RCN
+http://tecnotv.club/ggt/smartv.php?c=47_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/telemundo_thumb_w4gvhs2a.png" group-title="TV PREMIUM",TELEMUNDO
+http://tecnotv.club/ggt/smartv.php?c=1779_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/tudn_thumb_ngsn6tna.png" group-title="TV PREMIUM",TUDN MX
+http://tecnotv.club/ggt/smartv.php?c=267_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/tudn_thumb_4vvy03nm.png" group-title="TV PREMIUM",TUDN US
+http://tecnotv.club/ggt/smartv.php?c=1782_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/tvcdep_thumb_z6ia56a1.png" group-title="TV PREMIUM",TVC Deportes
+http://tecnotv.club/ggt/smartv.php?c=264_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/tv5-monde_thumb.png" group-title="TV PREMIUM",TV5 Monde
+http://tecnotv.club/ggt/smartv.php?c=1662_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/unimas_thumb_s76802wb.png" group-title="TV PREMIUM",UNIMAS
+http://tecnotv.club/ggt/smartv.php?c=1784_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/universo_thumb_xl2cotq2.png" group-title="TV PREMIUM",UNIVERSO
+http://tecnotv.club/ggt/smartv.php?c=1849_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/usa_thumb_m76rax5s.png" group-title="TV PREMIUM",USA Network
+http://tecnotv.club/ggt/smartv.php?c=1856_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/winsports-hd_thumb_guwaar4g.png" group-title="TV PREMIUM",WIN SPORTS
+http://tecnotv.club/ggt/smartv.php?c=1843_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/win-plus_thumb_6qvzmea1.png" group-title="TV PREMIUM",WIN SPORTS PLUS
+http://tecnotv.club/ggt/smartv.php?c=1670_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/agenda-deportiva_thumb.png" group-title="TV PREMIUM",PARTIDOS HOY
+http://tecnotv.club/ggt/smartv.php?c=_&f=.m3u8
 
-#EXTINF:-1 , CARACOL
-#EXTGRP: colombia
-http://209.126.105.238:25461/live/6d7858a54df14885a12c6216c5f48970/9c409973d4e34b1d91930537d55d1c9a/72.m3u8
 
-#EXTINF:-1 , CITY TV
-#EXTGRP: colombia
-http://209.126.105.238:25461/live/44d0ec8ed2764e9095d63c9c8e54f419/c94c159379314313b5d4c87987d031da/77.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/fox-action_thumb_z891xpnn.png" group-title="TV PREMIUM",FOX Action
+http://tecnotv.club/ggt/smartv.php?c=1496_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/foxcinema-hd_thumb_w0soq46n.png" group-title="TV PREMIUM",FOX Cinema
+http://tecnotv.club/ggt/smartv.php?c=1626_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/fox_comedy_thumb_ac5fe8wf.png" group-title="TV PREMIUM",FOX Comedy
+http://tecnotv.club/ggt/smartv.php?c=234_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/fox-classics_thumb_9gsz52h7.png" group-title="TV PREMIUM",FOX Classics
+http://tecnotv.club/ggt/smartv.php?c=1498_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/fox_family_thumb_pule1es8.png" group-title="TV PREMIUM",FOX Family
+http://tecnotv.club/ggt/smartv.php?c=235_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/fox-movies_thumb_a6r26oe0.png" group-title="TV PREMIUM",FOX Movies
+http://tecnotv.club/ggt/smartv.php?c=167_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/fox-series_thumb_k2zapkcq.png" group-title="TV PREMIUM",FOX Series
+http://tecnotv.club/ggt/smartv.php?c=1495_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/golden-hd_thumb_cushxnht.png" group-title="TV PREMIUM",GOLDEN
+http://tecnotv.club/ggt/smartv.php?c=166_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/golden-edge_thumb_jlywismv.png" group-title="TV PREMIUM",Golden EDGE
+http://tecnotv.club/ggt/smartv.php?c=169_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/golden-plus_thumb_kw47ht9k.png" group-title="TV PREMIUM",GOLDEN Plus
+http://tecnotv.club/ggt/smartv.php?c=1704_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/golden-premier-hd_thumb_2re326h5.png" group-title="TV PREMIUM",Golden PREMIER
+http://tecnotv.club/ggt/smartv.php?c=1704_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/hbo_thumb_hv26mbbm.png" group-title="TV PREMIUM",HBO
+http://tecnotv.club/ggt/smartv.php?c=1467_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/hbo-2_thumb_pxjkqhhs.png" group-title="TV PREMIUM",HBO 2
+http://tecnotv.club/ggt/smartv.php?c=1555_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/hbo-plus_thumb_g4ptf49i.png" group-title="TV PREMIUM",HBO Plus
+http://tecnotv.club/ggt/smartv.php?c=1557_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/HBO_Family_thumb_l8f59eqc.png" group-title="TV PREMIUM",HBO Family
+http://tecnotv.club/ggt/smartv.php?c=1500_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/hboMundi_thumb_4tenpf89.png" group-title="TV PREMIUM",HBO Mundi
+http://tecnotv.club/ggt/smartv.php?c=1535_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/hbo-pop_thumb.png" group-title="TV PREMIUM",HBO POP
+http://tecnotv.club/ggt/smartv.php?c=1855_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/hbo-signature_thumb_liijapuk.png" group-title="TV PREMIUM",HBO Signature
+http://tecnotv.club/ggt/smartv.php?c=229_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/hbo-xtreme_thumb.png" group-title="TV PREMIUM",HBO Xtreme
+http://tecnotv.club/ggt/smartv.php?c=1536_&f=.m3u8
 
-#EXTINF:-1 , CANAL TRO
-#EXTGRP: colombia
-http://xtremesportsplus.myq-see.com:8080/live/peppe/peppe/16986.ts
 
-#EXTINF:-1 , NTN
-#EXTGRP: colombia
-http://xtremesportsplus.myq-see.com:8080/live/peppe/peppe/17599.ts
-
-#EXTINF:-1 , AZTECA 1
-#EXTGRP: colombia
-http://51.178.65.221:32325/live/32237f9659b949aeb54f0aca5b8a0686/05b2b24ff5114ca498c7d895224bb657/493.m3u8
-
-#EXTINF:-1 , AZTECA CORAZON
-#EXTGRP: colombia
-http://51.178.65.221:32325/live/e67db383eced48ec8e230eeab80c5bf0/c744f9ee1cd54e39a173e14fea79c928/498.m3u8
-
-#EXTINF:-1 , AZTECA CINEMA
-#EXTGRP: colombia
-http://51.178.65.221:32325/live/60732768ea0e4328853629ff59e1e8c6/a79c41a3098447aca8f7d9f79964edaa/496.m3u8
-
-#EXTINF:-1 , AZTECA MUNDO
-#EXTGRP: colombia
-http://51.178.65.221:32325/live/a4cff0f169c64a97aa1afce44fb65ab5/b6a6f0fdec0242f8898c922f751f4b1a/497.m3u8
-
-#EXTINF:-1 ,DE PELICULA
-#EXTGRP: colombia
-http://51.178.65.221:32325/live/09ce07804b8346ddb9c56a3e46c38dfb/e9333c8f9e7e43a890b70851fd203ebf/541.m3u8
-
-#EXTINF:-1 ,AXN
-#EXTGRP: colombia
-http://51.178.65.221:32325/live/fac8cc8ea508458782994fdc05fadbfb/99dd9327efa94e79821f385825966b53/527.m3u8
-
-#EXTINF:-1 ,A&E 
-#EXTGRP: colombia
-http://xtremesportsplus.myq-see.com:8080/live/peppe/peppe/25082.ts
-
-#EXTINF:-1 ,AMC
-#EXTGRP: colombia
-http://51.178.65.221:32325/live/2ea36127166a40ba8450e45a5d25a16f/62de1f332bf64814afaf02668b296f7a/528.m3u8
-
-#EXTINF:-1 ,SPACE
-#EXTGRP: colombia
-http://51.178.65.221:32325/live/307a9286ec5c410793daa3587061cf5c/60c21e1cf7944043915bc07ff6800874/533.m3u8
-
-#EXTINF:-1 ,TNT
-#EXTGRP: colombia
-http://51.178.65.221:32325/live/c5e88b6d3b9849eb9e2e9aec43e95ed8/f077e301e54a47ab8707fe3788b653ce/525.m3u8
-
-#EXTINF:-1 ,TNT SERIES
-#EXTGRP: colombia
-http://209.126.108.5:25461/live/c3f3a868e65f4f34a670d2c13eb50d15/a97b0ccacca6462b97827807af0b7a8d/30.m3u8
-
-#EXTINF:-1 ,TNT SPORTS
-#EXTGRP: colombia
-http://145.239.2.125:32325/live/de10a23c33944f54a68f3b5247b99326/1316ce4cbb2d4445941f09279ac94290/14.m3u8
-
-#EXTINF:-1 ,TCM 
-#EXTGRP: colombia
-http://51.178.65.221:32325/live/a1c2e6b35f29429e8da5110f1a24afff/1217cedfeda84c5e9f01d9f24e97f403/529.m3u8
-
-#EXTINF:-1 ,A3SERIES ESPAÑA
-#EXTGRP: colombia
-https://cortino2.mitopo.me/live/atreseries/index.m3u8?token=hs2nCsSszGw4BbWMFD5YCA&expires=1614618801
-
-#EXTINF:-1 , MOVISTAR ACCIÓN ESPAÑA
-#EXTGRP: colombia
-https://cortino6.mitopo.me/live/plusaccion/index.m3u8?token=_GLo_7TmRPXgVZ_b1XsYCw&expires=1614618874
-
-#EXTINF:-1 , MOVISTAR COMEDIA ESPAÑA
-#EXTGRP: colombia
-https://cortino7.mitopo.me/live/comedia/index.m3u8?token=gQR5Y76S910r7xPcvfiBlQ&expires=1614618938
-
-#EXTINF:-1 ,HISTORY
-#EXTGRP: colombia
-http://51.178.65.221:32325/live/15ba298f377a46dcbf77a26ccfce852b/eac89fdf73ea4d598be63de8255c8f82/553.m3u8
-
-#EXTINF:-1 ,HISTORY 2
-#EXTGRP: colombia
-http://51.178.65.221:32325/live/ad88476d9b1b48eb889ad4901917c3cb/278ab33c89d44a4b8ada9dcfe23aee8f/554.m3u8
-
-#EXTINF:-1 ,CINECANAL
-#EXTGRP: colombia
-http://209.126.105.238:25461/live/c177dd9d82f1490a95613b326db92c1a/2ac21ab7d6584958bd1fa39919804773/4.m3u8
-
-#EXTINF:-1 , CINEMAX 
-#EXTGRP: colombia
-http://158.69.116.209:25461/live/eb0019284a894c32b0b056f06f4c71bf/7cb521de902f410bb3fcc03ebfc17024/2.m3u8
-
-#EXTINF:-1 ,STUDIO UNIVERSAL
-#EXTGRP: colombia
-http://51.178.65.221:32325/live/06610696cceb448aa5cce874936722a5/a7d8ae3758dc4de3b837a9f446515e8c/538.m3u8
-
-#EXTINF:-1 ,GOLDEN EDGE
-#EXTGRP: colombia
-http://51.178.65.221:32325/live/7430a825bc4742bfa9beefa7d010dbe1/d4cb1fefc0ef4c1bba556352f3c2eb1d/522.m3u8
-
-#EXTINF:-1 ,GOLDEN 
-#EXTGRP: colombia
-http://209.126.105.238:25461/live/33106a89a1ef4274a48077c1523942ad/c74fdf345b384ca5b099c51491373214/11.m3u8
-
-#EXTINF:-1 ,HBO
-#EXTGRP: colombia
-http://209.126.105.238:25461/live/49c3f528345b47de9b2e2e6ee4211bb1/faf56d28005d4e16a35192a5bca30f6b/25.m3u8
-
-#EXTINF:-1 ,HBO 2
-#EXTGRP: colombia
-http://51.178.65.221:32325/live/e416443acd16497eb7571339a6977190/8644e804e9674568b2cdc27161b7ba69/513.m3u8
-
-#EXTINF:-1 ,HBO PLUS
-#EXTGRP: colombia
-http://51.178.65.221:32325/live/ba522818f5474428b901aec0d7762e46/fcdd8d1ae26a4667afb6a9adb36ea724/514.m3u8
-
-#EXTINF:-1 ,HBO PLUS SIGNATURE
-#EXTGRP: colombia
-http://209.126.105.238:25461/live/0d3e3d2b9e5a4d17903c2649b6fe0075/300a109dbabe45d6839e8c2cddbe1c3f/35.m3u8
-
-#EXTINF:-1 ,HBO ZONA LATINA
-#EXTGRP: colombia
-http://209.126.105.238:25461/live/448ef70348644e5dbccb320a4e812a73/cdc49fdc753642d281624c0795f93bc3/40.m3u8
-
-#EXTINF:-1 ,STAR ACCIÓN
-#EXTGRP: colombia
-http://51.178.65.221:32325/live/d308f4c52d8f49c7b133a7d4ae897195/f13e37616667458993640d1ef1b5c513/504.m3u8
-
-#EXTINF:-1 ,STAR SERIES
-#EXTGRP: colombia
-http://209.126.105.238:25461/live/2732c81b744b45b9b1b9e8fe342a05f5/d2fb4bd63cc94ebd9ab6b9b67fa0b9fc/46.m3u8
-
-#EXTINF:-1 ,STARZ
-#EXTGRP: colombia
-http://158.69.116.209:25461/live/729845e26c6c4654a8a269ba09969a10/88fb7b77252b4ad6b4efaadb2971ee2f/39.m3u8
-
-#EXTINF:-1 ,STARZ COMEDIA
-#EXTGRP: colombia
-http://209.126.105.238:25461/live/ee3629037e944cc7bd6e7aab3de61155/9b1a9f1f4256400986274f0ede0f1ecb/55.m3u8
-
-#EXTINF:-1 ,STARZ HITS
-#EXTGRP: colombia
-http://209.126.105.238:25461/live/39294af64924440a924b26fd6187a7cf/93a628f074764dc89901f1886329cce5/50.m3u8
-
-#EXTINF:-1 ,STARZ LIFE
-#EXTGRP: colombia
-http://51.178.65.221:32325/live/fe115d871eaa4c50be7b427864be6198/1fad932d9e0e4f12a581fbc1bcc4e351/511.m3u8
-
-#EXTINF:-1 , UNIVISION
-#EXTGRP: colombia
-http://209.126.105.142:25461/live/dbd3872ac3b44e8b8e36452cf9d1a2dd/2b98aa64cb2749c780815abd5dafaba7/23.m3u8
-
-#EXTINF:-1 , UNIVISION US
-#EXTGRP: colombia
-http://209.126.105.238:25461/live/f27243b2654b4c4db8c09e2a806f83a9/be7f0288b12b42acb8207ec1c741c15d/71.m3u8
-
-#EXTINF:-1 ,TELEMUNDO 
-#EXTGRP: colombia
-http://209.126.105.142:25461/live/278082a49e03438dae7b24ac43bdfe18/054145162d434abbbe73a56556e349d1/21.m3u8
-
-#EXTINF:-1 ,TELEMUNDO MIAMI
-#EXTGRP: colombia
-http://145.239.2.125:32325/live/b1bd36b921a34194ad7306f40307d5b3/a2abe5d913e4447082eb0ef675be9c72/128.m3u8
-
-#EXTINF:-1 ,TELEMUNDO LOS ANGELES
-#EXTGRP: colombia
-http://145.239.2.125:32325/live/7274f77f949b4a42ac9a69d09f6c39f8/39be0b5f2ae34033b5eb2f7dea98a7d3/129.m3u8
-
-#EXTINF:-1 ,TELEMUNDO INTERNACIONAL
-#EXTGRP: colombia
-http://209.126.105.238:25461/live/1eb0041220ec4fd9bfb177b0cc156ed2/47e08c3b0b1143f5b959562a213b67c9/65.m3u8
-
+#EXTINF:-1 logo="https://www.televall.online/gallery/amas-loqueves_thumb_afa9pohz.png" group-title="TV PREMIUM",A MAS MX
+http://tecnotv.club/ggt/smartv.php?c=1_&f=.m3u8
+#EXTINF:-1 logo="https://www.televall.online/gallery/aztecauno_thumb_m0wgbd
 #EXTINF:-1 ,Telesur costarica
 #EXTGRP: colombia
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
@@ -351,11 +318,6 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 #EXTINF:-1 ,Canal Once
 #EXTGRP: "colombia"
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
-
-
-#EXTINF:-1 ,MACGIVER
-#EXTGRP: "PELICULAS"
-https://vidcache.net:8161/a202103026c0aA8PYWe3/video.mp4
 
 #EXTINF:-1 ,Redada Asesina
 #EXTGRP: "PELICULAS"
