@@ -3341,4 +3341,6 @@ https://archive.org/download/LMG302303/LMG512.avi
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Los Magnificos 513
 https://archive.org/download/LMG302303/LMG513.avi
 
-
+#EXTINF:-1 ,AL OTRO LADO DEL MURO
+#EXTGRP: "SERIES"
+https://youtu.be/5UiqNXtiPZA
