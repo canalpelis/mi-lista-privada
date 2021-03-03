@@ -4,6 +4,52 @@
 #EXTGRP: colombia
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8
 
+#EXTINF:-1 , WINSPORT +
+#EXTGRP:colombia
+http://xtremesportsplus.myq-see.com:8080/peppe/peppe/143
+
+#EXTINF:-1 , SEÑAL COLOMBIA
+#EXTGRP:colombia
+http://xtremesportsplus.myq-see.com:8080/peppe/peppe/16983
+
+#EXTINF:-1 , CARACOL
+#EXTGRP:colombia
+http://xtremesportsplus.myq-see.com:8080/peppe/peppe/7511
+
+#EXTINF:-1 , CARACOL INTERNACIONAL
+#EXTGRP:colombia
+http://xtremesportsplus.myq-see.com:8080/peppe/peppe/16981
+
+#EXTINF:-1 , RCN
+#EXTGRP:colombia
+http://xtremesportsplus.myq-see.com:8080/peppe/peppe/16984
+
+#EXTINF:-1 , RCN NOVELAS
+#EXTGRP:colombia
+http://xtremesportsplus.myq-see.com:8080/peppe/peppe/16987
+
+#EXTINF:-1 , CANAL UNO
+#EXTGRP:colombia
+http://xtremesportsplus.myq-see.com:8080/peppe/peppe/16985
+
+#EXTINF:-1 , CANAL TRO
+#EXTGRP:colombia
+http://xtremesportsplus.myq-see.com:8080/peppe/peppe/16986
+
+#EXTINF:-1 , TELEMEDELLIN
+#EXTGRP:colombia
+http://xtremesportsplus.myq-see.com:8080/peppe/peppe/2291
+
+#EXTINF:-1 , TELEANTIOQUIA
+#EXTGRP:colombia
+http://xtremesportsplus.myq-see.com:8080/peppe/peppe/2298
+
+#EXTINF:-1 , NTN
+#EXTGRP:colombia
+http://xtremesportsplus.myq-see.com:8080/peppe/peppe/17599
+
+
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7  CAILLOU
 http://zutv.online:2086/asrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaerg/asrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaerg/3
@@ -1201,6 +1247,18 @@ http://stream.grupoabchn.com:1935/TENHD/smil:TENLive.smil/playlist.m3u8
 #EXTINF:-1 ,Teleceiba 
 #EXTGRP:colombia
 http://190.11.224.14:8134/liveevent.m3u8
+
+#EXTINF:-1 , CHILEVISIÓN
+#EXTGRP:colombia
+http://xtremesportsplus.myq-see.com:8080/peppe/peppe/58
+
+#EXTINF:-1 , WINSPORT +
+#EXTGRP:colombia
+http://xtremesportsplus.myq-see.com:8080/peppe/peppe/143
+
+#EXTINF:-1 , WINSPORT +
+#EXTGRP:colombia
+http://xtremesportsplus.myq-see.com:8080/peppe/peppe/16983
 
 #EXTINF:-1 ,EXTREMA TV
 #EXTGRP:colombia
