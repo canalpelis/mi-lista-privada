@@ -4,9 +4,13 @@
 #EXTGRP: colombia
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8
 
-#EXTINF:-1 , WINSPORT +
+#EXTINF:-1 , WINSPORT 
 #EXTGRP:colombia
 http://xtremesportsplus.myq-see.com:8080/peppe/peppe/143
+
+#EXTINF:-1 , WINSPORT +
+#EXTGRP:colombia
+http://xtremesportsplus.myq-see.com:8080/peppe/peppe/7509
 
 #EXTINF:-1 , SEÑAL COLOMBIA
 #EXTGRP:colombia
@@ -44,12 +48,13 @@ http://xtremesportsplus.myq-see.com:8080/peppe/peppe/2291
 #EXTGRP:colombia
 http://xtremesportsplus.myq-see.com:8080/peppe/peppe/2298
 
-#EXTINF:-1 , NTN
+#EXTINF:-1 , NTN 24
 #EXTGRP:colombia
 http://xtremesportsplus.myq-see.com:8080/peppe/peppe/17599
 
-
-
+#EXTINF:-1 , CANAL CAPITAL
+#EXTGRP:colombia
+http://xtremesportsplus.myq-see.com:8080/peppe/peppe/7628
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7  CAILLOU
 http://zutv.online:2086/asrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaerg/asrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaerg/3
