@@ -3122,8 +3122,7 @@ http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8
 #EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
 https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS MAGNIFICOS", Los Magnificos 101-102
-#EXTGRP: "SERIES RETRO"
+#EXTINF:-1 tvg-logo="http://127.0.0.1/. #EXTGRP:"SERIES RETRO" "group-title="LOS MAGNIFICOS", Los Magnificos 101-102
 https://archive.org/download/LMG101102/LMG101-102.avi
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOS MAGNIFICOS", Los Magnificos 103
