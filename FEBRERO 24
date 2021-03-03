@@ -14,24 +14,22 @@ http://tecnotv.club/ggt/smartv.php?c=136_&f=.m3u8
 
 #EXTINF:-1 logo="https://www.televall.online/gallery/aztecauno_thumb.png" group-title="TV PREMIUM",AZTECA UNO MX
 http://tecnotv.club/ggt/smartv.php?c=136_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/canal2hd_thumb.png" group-title="TV PREMIUM",CANAL 2 MX
-http://tecnotv.club/ggt/smartv.php?c=135_&f=.m3u8
+
 #EXTINF:-1 logo="https://www.televall.online/gallery/canal5hd_thumb_nxdwanla.png" group-title="TV PREMIUM",CANAL 5 MX
 http://tecnotv.club/ggt/smartv.php?c=134_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/azteca_7_thumb_msqleg9z.png" group-title="TV PREMIUM",AZTECA 7 MX
 http://tecnotv.club/ggt/smartv.php?c=133_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/azteca7_hd_thumb_kmb7nz3e.png" group-title="TV PREMIUM",AZTECA 7 HD
 http://tecnotv.club/ggt/smartv.php?c=1877_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/canal-nueve_thumb.png" group-title="TV PREMIUM",NUEVE
-http://tecnotv.club/ggt/smartv.php?c=1541_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/imagen-television_thumb_782zb3ya.png" group-title="TV PREMIUM",IMAGEN TV
-http://tecnotv.club/ggt/smartv.php?c=130_&f=.m3u8
+
+
 #EXTINF:-1 logo="https://www.televall.online/gallery/foxaction_thumb_650zv1c1.png" group-title="TV PREMIUM",FOX ACTION
 http://tecnotv.club/ggt/smartv.php?c=170_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/SPACEHD_thumb.png" group-title="TV PREMIUM",SPACE
 http://tecnotv.club/ggt/smartv.php?c=180_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/adrenalina_thumb_uy5mzlde.png" group-title="TV PREMIUM",ADRENALINA
 http://tecnotv.club/ggt/smartv.php?c=265_&f=.m3u8
+
 #EXTINF:-1 logo="https://www.televall.online/gallery/aym_thumb_ezo3fpon.png" group-title="TV PREMIUM",AyM Sports
 http://tecnotv.club/ggt/smartv.php?c=262_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/basket-americas_thumb.png" group-title="TV PREMIUM",BASKET AMERICAS
@@ -70,24 +68,10 @@ http://tecnotv.club/ggt/smartv.php?c=1851_&f=.m3u8
 http://tecnotv.club/ggt/smartv.php?c=1850_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/fox-sports-3_thumb_tckesy09.png" group-title="TV PREMIUM",FOX SPORTS 3 LA
 http://tecnotv.club/ggt/smartv.php?c=1394_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/caracol-hd_thumb_ybotu7fs.png" group-title="TV PREMIUM",CARACOL
-http://tecnotv.club/ggt/smartv.php?c=74_&f=.m3u8
+
 #EXTINF:-1 logo="https://www.televall.online/gallery/galavision_thumb_hra9dw5v.png" group-title="TV PREMIUM",GALAVISION
 http://tecnotv.club/ggt/smartv.php?c=1756_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/golf-hd_thumb_1pljbk6n.png" group-title="TV PREMIUM",GOLF CHANNEL
-http://tecnotv.club/ggt/smartv.php?c=253_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/nbcsn_thumb_x4eybjw0.png" group-title="TV PREMIUM",NBCSN
-http://tecnotv.club/ggt/smartv.php?c=1789_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/NFL_logo_thumb_r29zzwtg.png" group-title="TV PREMIUM",NFL NETWORK
-http://tecnotv.club/ggt/smartv.php?c=83_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/havoc_thumb_2f3eknhx.png" group-title="TV PREMIUM",HAVOC
-http://tecnotv.club/ggt/smartv.php?c=266_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/las_thumb_6od2dgyd.png" group-title="TV PREMIUM",LAS Deportes
-http://tecnotv.club/ggt/smartv.php?c=263_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/rai-italia_thumb_40vpsggx.png" group-title="TV PREMIUM",RAI ITALIA
-http://tecnotv.club/ggt/smartv.php?c=1545_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/rcn_thumb_v9han5w5.png" group-title="TV PREMIUM",RCN
-http://tecnotv.club/ggt/smartv.php?c=47_&f=.m3u8
+
 #EXTINF:-1 logo="https://www.televall.online/gallery/telemundo_thumb_w4gvhs2a.png" group-title="TV PREMIUM",TELEMUNDO
 http://tecnotv.club/ggt/smartv.php?c=1779_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/tudn_thumb_ngsn6tna.png" group-title="TV PREMIUM",TUDN MX
@@ -104,12 +88,6 @@ http://tecnotv.club/ggt/smartv.php?c=1784_&f=.m3u8
 http://tecnotv.club/ggt/smartv.php?c=1849_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/usa_thumb_m76rax5s.png" group-title="TV PREMIUM",USA Network
 http://tecnotv.club/ggt/smartv.php?c=1856_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/winsports-hd_thumb_guwaar4g.png" group-title="TV PREMIUM",WIN SPORTS
-http://tecnotv.club/ggt/smartv.php?c=1843_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/win-plus_thumb_6qvzmea1.png" group-title="TV PREMIUM",WIN SPORTS PLUS
-http://tecnotv.club/ggt/smartv.php?c=1670_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/agenda-deportiva_thumb.png" group-title="TV PREMIUM",PARTIDOS HOY
-http://tecnotv.club/ggt/smartv.php?c=_&f=.m3u8
 
 
 #EXTINF:-1 logo="https://www.televall.online/gallery/fox-action_thumb_z891xpnn.png" group-title="TV PREMIUM",FOX Action
