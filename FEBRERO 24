@@ -4,6 +4,10 @@
 #EXTGRP: colombia
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8
 
+#EXTINF:-1 ,BANDAMAX
+#EXTGRP: colombia
+http://redcoliptv.com:8090/Cristobal20/Cristobal20/2552
+
 #EXTINF:-1 , WINSPORT 
 #EXTGRP:colombia
 http://xtremesportsplus.myq-see.com:8080/peppe/peppe/143
@@ -12,9 +16,13 @@ http://xtremesportsplus.myq-see.com:8080/peppe/peppe/143
 #EXTGRP:colombia
 http://xtremesportsplus.myq-see.com:8080/peppe/peppe/7509
 
+#EXTINF:-1 , WINSPORT +
+#EXTGRP:colombia
+http://redcoliptv.com:8090/Cristobal20/Cristobal20/19643
+
 #EXTINF:-1 , SEÑAL COLOMBIA
 #EXTGRP:colombia
-http://xtremesportsplus.myq-see.com:8080/peppe/peppe/16983
+http://redcoliptv.com:8090/Cristobal20/Cristobal20/21695
 
 #EXTINF:-1 , CARACOL
 #EXTGRP:colombia
@@ -52,9 +60,41 @@ http://xtremesportsplus.myq-see.com:8080/peppe/peppe/2298
 #EXTGRP:colombia
 http://xtremesportsplus.myq-see.com:8080/peppe/peppe/17599
 
+#EXTINF:-1 , NTN 24 MX
+#EXTGRP:colombia
+http://redcoliptv.com:8090/Cristobal20/Cristobal20/2575
+
 #EXTINF:-1 , CANAL CAPITAL
 #EXTGRP:colombia
 http://xtremesportsplus.myq-see.com:8080/peppe/peppe/7628
+
+#EXTINF:-1 , ANTENA LATINA
+#EXTGRP:colombia
+http://redcoliptv.com:8090/Cristobal20/Cristobal20/2632
+
+#EXTINF:-1 , LATINA
+#EXTGRP:colombia
+http://redcoliptv.com:8090/Cristobal20/Cristobal20/2617
+
+#EXTINF:-1 , TELEAMAZONAS
+#EXTGRP:colombia
+http://redcoliptv.com:8090/Cristobal20/Cristobal20/2687
+
+#EXTINF:-1 , TC
+#EXTGRP:colombia
+http://redcoliptv.com:8090/Cristobal20/Cristobal20/2686
+
+#EXTINF:-1 , GLOBOVISIÓN
+#EXTGRP:colombia
+http://redcoliptv.com:8090/Cristobal20/Cristobal20/2662
+
+#EXTINF:-1 , CINE ACCIÓN -SAGAS-
+#EXTGRP:colombia
+http://redcoliptv.com:8090/Cristobal20/Cristobal20/19522
+
+
+#EXTINF:-1  "group-title="24/7", 24/7  MI BELLA GENIIO
+http://redcoliptv.com:8090/Cristobal20/Cristobal20/19626
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7", 24/7  CAILLOU
 http://zutv.online:2086/asrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaerg/asrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaergasrgaerg/3
