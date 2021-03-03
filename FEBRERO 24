@@ -89,29 +89,12 @@ http://tecnotv.club/ggt/smartv.php?c=1849_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/usa_thumb_m76rax5s.png" group-title="TV PREMIUM",USA Network
 http://tecnotv.club/ggt/smartv.php?c=1856_&f=.m3u8
 
-
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox-action_thumb_z891xpnn.png" group-title="TV PREMIUM",FOX Action
-http://tecnotv.club/ggt/smartv.php?c=1496_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/foxcinema-hd_thumb_w0soq46n.png" group-title="TV PREMIUM",FOX Cinema
-http://tecnotv.club/ggt/smartv.php?c=1626_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox_comedy_thumb_ac5fe8wf.png" group-title="TV PREMIUM",FOX Comedy
-http://tecnotv.club/ggt/smartv.php?c=234_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox-classics_thumb_9gsz52h7.png" group-title="TV PREMIUM",FOX Classics
-http://tecnotv.club/ggt/smartv.php?c=1498_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/fox_family_thumb_pule1es8.png" group-title="TV PREMIUM",FOX Family
-http://tecnotv.club/ggt/smartv.php?c=235_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/fox-movies_thumb_a6r26oe0.png" group-title="TV PREMIUM",FOX Movies
 http://tecnotv.club/ggt/smartv.php?c=167_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/fox-series_thumb_k2zapkcq.png" group-title="TV PREMIUM",FOX Series
 http://tecnotv.club/ggt/smartv.php?c=1495_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/golden-hd_thumb_cushxnht.png" group-title="TV PREMIUM",GOLDEN
 http://tecnotv.club/ggt/smartv.php?c=166_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/golden-edge_thumb_jlywismv.png" group-title="TV PREMIUM",Golden EDGE
-http://tecnotv.club/ggt/smartv.php?c=169_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/golden-plus_thumb_kw47ht9k.png" group-title="TV PREMIUM",GOLDEN Plus
-http://tecnotv.club/ggt/smartv.php?c=1704_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/golden-premier-hd_thumb_2re326h5.png" group-title="TV PREMIUM",Golden PREMIER
-http://tecnotv.club/ggt/smartv.php?c=1704_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/hbo_thumb_hv26mbbm.png" group-title="TV PREMIUM",HBO
 http://tecnotv.club/ggt/smartv.php?c=1467_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/hbo-2_thumb_pxjkqhhs.png" group-title="TV PREMIUM",HBO 2
@@ -120,12 +103,6 @@ http://tecnotv.club/ggt/smartv.php?c=1555_&f=.m3u8
 http://tecnotv.club/ggt/smartv.php?c=1557_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/HBO_Family_thumb_l8f59eqc.png" group-title="TV PREMIUM",HBO Family
 http://tecnotv.club/ggt/smartv.php?c=1500_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/hboMundi_thumb_4tenpf89.png" group-title="TV PREMIUM",HBO Mundi
-http://tecnotv.club/ggt/smartv.php?c=1535_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/hbo-pop_thumb.png" group-title="TV PREMIUM",HBO POP
-http://tecnotv.club/ggt/smartv.php?c=1855_&f=.m3u8
-#EXTINF:-1 logo="https://www.televall.online/gallery/hbo-signature_thumb_liijapuk.png" group-title="TV PREMIUM",HBO Signature
-http://tecnotv.club/ggt/smartv.php?c=229_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/hbo-xtreme_thumb.png" group-title="TV PREMIUM",HBO Xtreme
 http://tecnotv.club/ggt/smartv.php?c=1536_&f=.m3u8
 #EXTINF:-1 logo="https://www.televall.online/gallery/amas-loqueves_thumb_afa9pohz.png" group-title="TV PREMIUM",A MAS MX
