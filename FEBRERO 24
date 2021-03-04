@@ -8,6 +8,10 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.
 #EXTGRP: colombia
 http://redcoliptv.com:8090/Cristobal20/Cristobal20/2552
 
+#EXTINF:-1 ,MIX 24/7 TROPICAL
+#EXTGRP: colombia
+http://tv.iptv5latino.cl:8000/jorge18/1234/58120
+
 #EXTINF:-1 , WINSPORT 
 #EXTGRP:colombia
 http://xtremesportsplus.myq-see.com:8080/peppe/peppe/143
@@ -26,39 +30,43 @@ http://redcoliptv.com:8090/Cristobal20/Cristobal20/21695
 
 #EXTINF:-1 , CARACOL
 #EXTGRP:colombia
-http://xtremesportsplus.myq-see.com:8080/peppe/peppe/7511
+http://tv.iptv5latino.cl:8000/jorge18/1234/58371
 
 #EXTINF:-1 , CARACOL INTERNACIONAL
 #EXTGRP:colombia
-http://xtremesportsplus.myq-see.com:8080/peppe/peppe/16981
+http://tv.iptv5latino.cl:8000/jorge18/1234/3995
 
 #EXTINF:-1 , RCN
 #EXTGRP:colombia
-http://xtremesportsplus.myq-see.com:8080/peppe/peppe/16984
+http://tv.iptv5latino.cl:8000/jorge18/1234/3972
+
+#EXTINF:-1 , CABLENOTICIAS
+#EXTGRP:colombia
+http://tv.iptv5latino.cl:8000/jorge18/1234/4003
 
 #EXTINF:-1 , RCN NOVELAS
 #EXTGRP:colombia
-http://xtremesportsplus.myq-see.com:8080/peppe/peppe/16987
+http://tv.iptv5latino.cl:8000/jorge18/1234/3982
 
 #EXTINF:-1 , CANAL UNO
 #EXTGRP:colombia
-http://xtremesportsplus.myq-see.com:8080/peppe/peppe/16985
+http://tv.iptv5latino.cl:8000/jorge18/1234/17780
 
 #EXTINF:-1 , CANAL TRO
 #EXTGRP:colombia
-http://xtremesportsplus.myq-see.com:8080/peppe/peppe/16986
+http://tv.iptv5latino.cl:8000/jorge18/1234/43360
 
 #EXTINF:-1 , TELEMEDELLIN
 #EXTGRP:colombia
-http://xtremesportsplus.myq-see.com:8080/peppe/peppe/2291
+http://tv.iptv5latino.cl:8000/jorge18/1234/3977
 
 #EXTINF:-1 , TELEANTIOQUIA
 #EXTGRP:colombia
-http://xtremesportsplus.myq-see.com:8080/peppe/peppe/2298
+http://tv.iptv5latino.cl:8000/jorge18/1234/17774
 
 #EXTINF:-1 , NTN 24
 #EXTGRP:colombia
-http://xtremesportsplus.myq-see.com:8080/peppe/peppe/17599
+http://tv.iptv5latino.cl:8000/jorge18/1234/17789
 
 #EXTINF:-1 , NTN 24 MX
 #EXTGRP:colombia
