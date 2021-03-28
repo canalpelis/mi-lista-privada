@@ -1,5 +1,509 @@
 #EXTM3U
 
+
+
+#EXTM3U #EXTINF:-1 tvg-logo="https://i.imgur.com/L0zLsl9.png" group-title="Lista xtves9",BLACKGHOST TVES 09 https://blackghost.live/TV&f=.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/3akxcS6.png" group-title="Lista xtves9", Apoya este proyecto #EXTINF:-1 group-title="Lista xtves9",http://paypal.me/blackghost https://blackghost.live/325/tvx.php?opcion=xtves9&c= #EXTINF:-1 group-title="Lista xtves9",Fox Life https://blackghost.live/325/tvx.php?opcion=xtves9&c=4880 #EXTINF:-1 group-title="Lista xtves9",M. DCINE https://blackghost.live/325/tvx.php?opcion=xtves9&c=4886 #EXTINF:-1 group-title="Lista xtves9",SYFY HD https://blackghost.live/325/tvx.php?opcion=xtves9&c=3473 #EXTINF:-1 group-title="Lista xtves9",TV Galicia https://blackghost.live/325/tvx.php?opcion=xtves9&c=3563 #EXTINF:-1 group-title="Lista xtves9",Teleticino https://blackghost.live/325/tvx.php?opcion=xtves9&c=3558 #EXTINF:-1 group-title="Lista xtves9",ALQUILER 9 https://blackghost.live/325/tvx.php?opcion=xtves9&c=3577 #EXTINF:-1 group-title="Lista xtves9",ALQUILER 8 https://blackghost.live/325/tvx.php?opcion=xtves9&c=3578 #EXTINF:-1 group-title="Lista xtves9",ALQUILER 7 https://blackghost.live/325/tvx.php?opcion=xtves9&c=3579 #EXTINF:-1 group-title="Lista xtves9",ALQUILER 6 https://blackghost.live/325/tvx.php?opcion=xtves9&c=3576 #EXTINF:-1 group-title="Lista xtves9",ALQUILER 5 https://blackghost.live/325/tvx.php?opcion=xtves9&c=3575 #EXTINF:-1 group-title="Lista xtves9",ALQUILER 4 https://blackghost.live/325/tvx.php?opcion=xtves9&c=3574 #EXTINF:-1 group-title="Lista xtves9",ALQUILER 3 https://blackghost.live/325/tvx.php?opcion=xtves9&c=3573 #EXTINF:-1 group-title="Lista xtves9",ALQUILER 2 https://blackghost.live/325/tvx.php?opcion=xtves9&c=3572 #EXTINF:-1 group-title="Lista xtves9",ALQUILLER10 https://blackghost.live/325/tvx.php?opcion=xtves9&c=3580 #EXTINF:-1 group-title="Lista xtves9",ALQUILER 1 https://blackghost.live/325/tvx.php?opcion=xtves9&c=3571 #EXTINF:-1 group-title="Lista xtves9",Real Madrid https://blackghost.live/325/tvx.php?opcion=xtves9&c=3595 #EXTINF:-1 group-title="Lista xtves9",Nat Geo Wild HD https://blackghost.live/325/tvx.php?opcion=xtves9&c=3561 #EXTINF:-1 group-title="Lista xtves9",M. Moto GP https://blackghost.live/325/tvx.php?opcion=xtves9&c=3597 #EXTINF:-1 group-title="Lista xtves9",M. FORMULA 1 https://blackghost.live/325/tvx.php?opcion=xtves9&c=3598 #EXTINF:-1 group-title="Lista xtves9",Discovery Channel https://blackghost.live/325/tvx.php?opcion=xtves9&c=3560 #EXTINF:-1 group-title="Lista xtves9",Cosmo https://blackghost.live/325/tvx.php?opcion=xtves9&c=3568 #EXTINF:-1 group-title="Lista xtves9",Canal Cocina https://blackghost.live/325/tvx.php?opcion=xtves9&c=3582 #EXTINF:-1 group-title="Lista xtves9",BABY TV https://blackghost.live/325/tvx.php?opcion=xtves9&c=3583 #EXTINF:-1 group-title="Lista xtves9",Andalucia TV https://blackghost.live/325/tvx.php?opcion=xtves9&c=3596 #EXTINF:-1 group-title="Lista xtves9",FOX HD https://blackghost.live/325/tvx.php?opcion=xtves9&c=3476 #EXTINF:-1 group-title="Lista xtves9",M. SERIES https://blackghost.live/325/tvx.php?opcion=xtves9&c=3479 #EXTINF:-1 group-title="Lista xtves9",M. FUTBOL HD https://blackghost.live/325/tvx.php?opcion=xtves9&c=3489 #EXTINF:-1 group-title="Lista xtves9",M. DCINE HD https://blackghost.live/325/tvx.php?opcion=xtves9&c=3481 #EXTINF:-1 group-title="Lista xtves9",AXN HD https://blackghost.live/325/tvx.php?opcion=xtves9&c=3482 #EXTINF:-1 group-title="Lista xtves9",Teledeportes https://blackghost.live/325/tvx.php?opcion=xtves9&c=2683 #EXTINF:-1 group-title="Lista xtves9",LA 2 https://blackghost.live/325/tvx.php?opcion=xtves9&c=2682 #EXTINF:-1 group-title="Lista xtves9",LA 1 HD https://blackghost.live/325/tvx.php?opcion=xtves9&c=2681 #EXTINF:-1 group-title="Lista xtves9",Barca TV https://blackghost.live/325/tvx.php?opcion=xtves9&c=2684 #EXTINF:-1 group-title="Lista xtves9",TNT https://blackghost.live/325/tvx.php?opcion=xtves9&c=1584 #EXTINF:-1 group-title="Lista xtves9",TCM https://blackghost.live/325/tvx.php?opcion=xtves9&c=1586 #EXTINF:-1 group-title="Lista xtves9",SYFY https://blackghost.live/325/tvx.php?opcion=xtves9&c=1587 #EXTINF:-1 group-title="Lista xtves9",NOVA https://blackghost.live/325/tvx.php?opcion=xtves9&c=1588 #EXTINF:-1 group-title="Lista xtves9",NICKELODEON https://blackghost.live/325/tvx.php?opcion=xtves9&c=1589 #EXTINF:-1 group-title="Lista xtves9",NICK JUNIOR https://blackghost.live/325/tvx.php?opcion=xtves9&c=1590 #EXTINF:-1 group-title="Lista xtves9",NATIONAL GEOGRAPHIC https://blackghost.live/325/tvx.php?opcion=xtves9&c=1591 #EXTINF:-1 group-title="Lista xtves9",La Sexta HD https://blackghost.live/325/tvx.php?opcion=xtves9&c=1571 #EXTINF:-1 group-title="Lista xtves9",LA SEXTA https://blackghost.live/325/tvx.php?opcion=xtves9&c=1594 #EXTINF:-1 group-title="Lista xtves9",HISTORIA https://blackghost.live/325/tvx.php?opcion=xtves9&c=1595 #EXTINF:-1 group-title="Lista xtves9",FOX https://blackghost.live/325/tvx.php?opcion=xtves9&c=1596 #EXTINF:-1 group-title="Lista xtves9",Fdf https://blackghost.live/325/tvx.php?opcion=xtves9&c=1572 #EXTINF:-1 group-title="Lista xtves9",Energy https://blackghost.live/325/tvx.php?opcion=xtves9&c=1574 #EXTINF:-1 group-title="Lista xtves9",DISNEY XD https://blackghost.live/325/tvx.php?opcion=xtves9&c=1598 #EXTINF:-1 group-title="Lista xtves9",DISNEY JUNIOR https://blackghost.live/325/tvx.php?opcion=xtves9&c=1599 #EXTINF:-1 group-title="Lista xtves9",DISNEY CHANNEL https://blackghost.live/325/tvx.php?opcion=xtves9&c=1600 #EXTINF:-1 group-title="Lista xtves9",M. CINE ESPANOL https://blackghost.live/325/tvx.php?opcion=xtves9&c=1601 #EXTINF:-1 group-title="Lista xtves9",CUATRO https://blackghost.live/325/tvx.php?opcion=xtves9&c=1602 #EXTINF:-1 group-title="Lista xtves9",COMEDY CENTRAL https://blackghost.live/325/tvx.php?opcion=xtves9&c=1603 #EXTINF:-1 group-title="Lista xtves9",CAZA Y PESCA https://blackghost.live/325/tvx.php?opcion=xtves9&c=1604 #EXTINF:-1 group-title="Lista xtves9",HWD HOLLYWOOD HD https://blackghost.live/325/tvx.php?opcion=xtves9&c=1605 #EXTINF:-1 group-title="Lista xtves9",M. SERIES XTRA https://blackghost.live/325/tvx.php?opcion=xtves9&c=1608 #EXTINF:-1 group-title="Lista xtves9",M. SERIES HD https://blackghost.live/325/tvx.php?opcion=xtves9&c=1609 #EXTINF:-1 group-title="Lista xtves9",M. GOLF https://blackghost.live/325/tvx.php?opcion=xtves9&c=1611 #EXTINF:-1 group-title="Lista xtves9",A3S Atreseries HD https://blackghost.live/325/tvx.php?opcion=xtves9&c=1613 #EXTINF:-1 group-title="Lista xtves9",M. Comedia https://blackghost.live/325/tvx.php?opcion=xtves9&c=1614 #EXTINF:-1 group-title="Lista xtves9",M. ACCION https://blackghost.live/325/tvx.php?opcion=xtves9&c=1615 #EXTINF:-1 group-title="Lista xtves9",TOROS https://blackghost.live/325/tvx.php?opcion=xtves9&c=1607 #EXTINF:-1 group-title="Lista xtves9",Movistar ESTRENOS HD https://blackghost.live/325/tvx.php?opcion=xtves9&c=1191 #EXTINF:-1 group-title="Lista xtves9",M. DEPORTES 1 https://blackghost.live/325/tvx.php?opcion=xtves9&c=1192 #EXTINF:-1 group-title="Lista xtves9",CALLE 13 https://blackghost.live/325/tvx.php?opcion=xtves9&c=1186 #EXTINF:-1 group-title="Lista xtves9",Boing https://blackghost.live/325/tvx.php?opcion=xtves9&c=1579 #EXTINF:-1 group-title="Lista xtves9",AXN WHITE https://blackghost.live/325/tvx.php?opcion=xtves9&c=1616 #EXTINF:-1 group-title="Lista xtves9",AXN https://blackghost.live/325/tvx.php?opcion=xtves9&c=1617 #EXTINF:-1 group-title="Lista xtves9",Antena 3 HD https://blackghost.live/325/tvx.php?opcion=xtves9&c=1580 #EXTINF:-1 group-title="Lista xtves9",MOVISTAR FUTBOL https://blackghost.live/325/tvx.php?opcion=xtves9&c=3538
+
+
+
+
+
+#EXTINF:-1 tvg-logo="/logos/laliga.png",LALIGA
+https://blackghost.live/play/wistream-325.php?cat=deportes&ch=movistar-laliga/live.php&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/laliga.png",LALIGA Bar
+https://blackghost.live/play/wistream-325.php?cat=deportes&ch=movistar-laliga/bar.php&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/campeones.png",LIGA CAMPEONES
+https://blackghost.live/play/wistream-325.php?cat=deportes&ch=movistar-ligacampeones/live.php&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/deportes.png",MOVISTAR DEPORTES
+https://blackghost.live/play/wistream-325.php?cat=deportes&ch=movistar-deportes&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/liga-smart-bank.png",LIGA SMARTBANK
+https://blackghost.live/play/wistream-325.php?cat=deportes&ch=laliga-smartbank&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/dazn.png",DAZN
+https://blackghost.live/play/wistream-325.php?cat=deportes&ch=dazn&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/vamos.png",#VAMOS
+https://blackghost.live/play/wistream-325.php?cat=deportes&ch=vamos&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/goltv.png",GOLTV
+https://blackghost.live/play/wistream-325.php?cat=deportes&ch=goltv&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/canal0.png",#0
+https://blackghost.live/play/wistream-325.php?cat=deportes&ch=canal-0-plus&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/motogp.png",MOTO GP
+https://blackghost.live/play/wistream-325.php?cat=deportes&ch=motogp&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/formula1.png",FORMULA 1
+https://blackghost.live/play/wistream-325.php?cat=deportes&ch=formula1&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/teledeporte.png",TELEDEPORTE
+https://rtvelivestream.akamaized.net/tdp_dvr.m3u8
+#EXTINF:-1 tvg-logo="/logos/eurosport1.png",EUROSPORT 1
+https://blackghost.live/play/wistream-325.php?cat=deportes&ch=eurosport1&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/eurosport2.png",EUROSPORT 2
+https://blackghost.live/play/wistream-325.php?cat=deportes&ch=eurosport2&k=black-ghost&f=.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="/logos/ghvip.png",GH VIP
+https://blackghost.live/play/wistream-325.php?&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/la1.png",TVE 1
+https://blackghost.live/play/wistream-325.php?cat=espana&ch=tve1&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/la2.png",TVE 2
+https://blackghost.live/play/wistream-325.php?cat=espana&ch=tve2&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/la3.png",ANTENA 3
+https://blackghost.live/play/wistream-325.php?cat=espana&ch=antena3&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/la4.png",LA CUATRO
+https://blackghost.live/play/wistream-325.php?cat=espana&ch=lacuatro&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/la5.png",TELECINCO
+https://blackghost.live/play/wistream-325.php?cat=espana&ch=telecinco&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/la6.png",LA SEXTA
+https://blackghost.live/play/wistream-325.php?cat=espana&ch=lasexta&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/mega.png",MEGA
+https://blackghost.live/play/wistream-325.php?cat=espana&ch=mega&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/fdf.png",FDF
+https://blackghost.live/play/wistream-325.php?cat=espana&ch=fdf&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/telemadrid.png",TELEMADRID
+https://blackghost.live/play/wistream-325.php?cat=espana&ch=telemadrid&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/canal0.png",#0
+https://blackghost.live/play/wistream-325.php?cat=espana&ch=canal-0-plus&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/movistarestrenos.png",CANAL ESTRENOS
+https://blackghost.live/play/wistream-325.php?cat=espana&ch=movistar-estrenos&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/movistaraccion.png",CANAL ACCION
+https://blackghost.live/play/wistream-325.php?cat=espana&ch=movistar-accion&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/movistardrama.png",CANAL DRAMA
+https://blackghost.live/play/wistream-325.php?cat=espana&ch=movistar-drama&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/movistarcomedia.png",CANAL COMEDIA
+https://blackghost.live/play/wistream-325.php?cat=espana&ch=movistar-comedia&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/dcinen.png",DCINE Ñ
+https://blackghost.live/play/wistream-325.php?cat=espana&ch=dcineespanol&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/movistarseries.png",CANAL SERIES
+https://blackghost.live/play/wistream-325.php?cat=espana&ch=movistar-series&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/toros.png",CANAL TOROS
+https://blackghost.live/play/wistream-325.php?cat=espana&ch=toros&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/fox.png",FOX
+https://blackghost.live/play/wistream-325.php?cat=espana&ch=fox&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/axn.png",AXN
+https://blackghost.live/play/wistream-325.php?cat=espana&ch=axn&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/tnt.png",TNT
+https://blackghost.live/play/wistream-325.php?cat=espana&ch=tnt&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/amc.png",AMC
+https://blackghost.live/play/wistream-325.php?cat=espana&ch=amc&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/syfy.png",SYFY
+https://blackghost.live/play/wistream-325.php?cat=espana&ch=syfy&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/dark.png",DARK
+https://blackghost.live/play/wistream-325.php?cat=espana&ch=dark&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/40tv.png",LOS 40 TV
+https://blackghost.live/play/wistream-325.php?cat=espana&ch=los40&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/dmax.png",DISCOVERY MAX
+https://blackghost.live/play/wistream-325.php?cat=espana&ch=discovery-max&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/cocina.png",CANAL COCINA
+https://blackghost.live/play/wistream-325.php?cat=espana&ch=cocina&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/historia.png",HISTORIA
+https://blackghost.live/play/wistream-325.php?cat=espana&ch=history&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/cazaypesca.png",CAZA Y PESCA
+https://blackghost.live/play/wistream-325.php?cat=espana&ch=caza-pesca&k=black-ghost&f=.m3u8
+#EXTINF:-1 tvg-logo="/logos/cazavision.png",CAZAVISION
+https://blackghost.live/play/wistream-325.php?cat=latinos&ch=cazavision&k=black-ghost&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L0zLsl9.png"  group-title="Lista España 4",BLACKGHOST TVES 04
+https://blackghost.live/TV&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3akxcS6.png" group-title="Lista España 4", http://paypal.me/blackghost
+
+https://blackghost.live/TV&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ajLbi7cm.jpg"  group-title="Lista España 4",Vamos HD
+https://blackghost.live/play/gnula-325.php?c=62533|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iAVjaZJ.jpg"  group-title="Lista España 4",GOL HD
+https://blackghost.live/play/gnula-325.php?c=62536|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4dZy8Mw.jpg"  group-title="Lista España 4",Bar?a TV
+https://blackghost.live/play/gnula-325.php?c=62538|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1mVMrls.png"  group-title="Lista España 4",Movistar F1 HD
+https://blackghost.live/play/gnula-325.php?c=62541|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QLSRFPi.jpg"  group-title="Lista España 4",Teledeporte
+https://blackghost.live/play/gnula-325.php?c=62543|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DOkXlgi.png"  group-title="Lista España 4",Movistar Golf HD
+https://blackghost.live/play/gnula-325.php?c=62546|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWI85iB.jpg"  group-title="Lista España 4",Movistar Deportes HD
+https://blackghost.live/play/gnula-325.php?c=62549|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QjZDLzr.jpg"  group-title="Lista España 4",Eurosport 1 HD
+https://blackghost.live/play/gnula-325.php?c=62552|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RAy1hk2.jpg"  group-title="Lista España 4",Eurosport 2 HD
+https://blackghost.live/play/gnula-325.php?c=62555|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OVxc9h1.jpg"  group-title="Lista España 4",Real Madrid TV
+https://blackghost.live/play/gnula-325.php?c=62556|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fg8kDUc.jpg"  group-title="Lista España 4",M. LaLiga 1
+https://blackghost.live/play/gnula-325.php?c=62559|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fg8kDUc.jpg"  group-title="Lista España 4",M. LaLiga 1 FHD
+https://blackghost.live/play/gnula-325.php?c=62560|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nrsiVPM.jpg"  group-title="Lista España 4",M. LaLiga 2
+https://blackghost.live/play/gnula-325.php?c=62561|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0jJaNDU.jpg"  group-title="Lista España 4",M. LaLiga 3
+https://blackghost.live/play/gnula-325.php?c=62563|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c7dwKhT.png"  group-title="Lista España 4",M. Liga de Campeones 1
+https://blackghost.live/play/gnula-325.php?c=62565|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GX1Vqma.png"  group-title="Lista España 4",M. Liga de Campeones 2
+https://blackghost.live/play/gnula-325.php?c=62566|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rJ5LDlK.png"  group-title="Lista España 4",M. Liga de Campeones 3
+https://blackghost.live/play/gnula-325.php?c=62567|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4AFSzR0.png"  group-title="Lista España 4",M. Liga de Campeones 4
+https://blackghost.live/play/gnula-325.php?c=62568|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eJKjbiB.png"  group-title="Lista España 4",M. Liga de Campeones 5
+https://blackghost.live/play/gnula-325.php?c=62569|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pR5X6ZY.png"  group-title="Lista España 4",M. Liga de Campeones 6
+https://blackghost.live/play/gnula-325.php?c=62570|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bgiEag8.png"  group-title="Lista España 4",M. Liga de Campeones 7
+https://blackghost.live/play/gnula-325.php?c=62571|User-Agent=GNULATV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Rz84EJi.jpg"  group-title="Lista España 4",ES: Movistar Accion HD
+https://blackghost.live/play/gnula-325.php?c=64111|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zEclLDK.jpg"  group-title="Lista España 4",ES: Movistar Cine Espanol FHD
+https://blackghost.live/play/gnula-325.php?c=64114|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/umlLS3D.png"  group-title="Lista España 4",ES: Movistar CineDoc&Roll HD
+https://blackghost.live/play/gnula-325.php?c=64116|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zZfJOIL.png"  group-title="Lista España 4",ES: Movistar Comedia HD
+https://blackghost.live/play/gnula-325.php?c=64119|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cx716Ew.png"  group-title="Lista España 4",ES: Movistar Drama HD
+https://blackghost.live/play/gnula-325.php?c=64122|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nt8hxpg.jpg"  group-title="Lista España 4",ES: Movistar Estrenos HD
+https://blackghost.live/play/gnula-325.php?c=64125|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xpemzse.jpg"  group-title="Lista España 4",ES: Movistar Series HD
+https://blackghost.live/play/gnula-325.php?c=64128|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6wVcDSI.png"  group-title="Lista España 4",ES: Movistar Seriesmania HD
+https://blackghost.live/play/gnula-325.php?c=64131|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/45jKYE5.png"  group-title="Lista España 4",ES: Movistar Disney+ HD
+https://blackghost.live/play/gnula-325.php?c=64134|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P6Q30xz/TVE-Internacional.png"  group-title="Lista España 4",TVE Internacional
+https://blackghost.live/play/gnula-325.php?c=63988|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7S5d9S/La-1.png"  group-title="Lista España 4",La 1 HD
+https://blackghost.live/play/gnula-325.php?c=63990|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2gYKbSM/La-2.png"  group-title="Lista España 4",La 2 FHD
+https://blackghost.live/play/gnula-325.php?c=63993|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/47mTbwR/Antena-3.png"  group-title="Lista España 4",Antena 3 HD
+https://blackghost.live/play/gnula-325.php?c=63995|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ySm3XDx/Antena-3-Internacional.png"  group-title="Lista España 4",Antena 3 Internacional
+https://blackghost.live/play/gnula-325.php?c=63997|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tgj0cS9/Cuatro.png"  group-title="Lista España 4",Cuatro HD
+https://blackghost.live/play/gnula-325.php?c=64000|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ggFXgws/Telecinco.png"  group-title="Lista España 4",Telecinco HD
+https://blackghost.live/play/gnula-325.php?c=64003|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PQTT96J/La-Sexta.png"  group-title="Lista España 4",La Sexta
+https://blackghost.live/play/gnula-325.php?c=64005|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sghkxM5/Star-TVE.png"  group-title="Lista España 4",Star TVE
+https://blackghost.live/play/gnula-325.php?c=64008|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sghkxM5/Star-TVE.png"  group-title="Lista España 4",Star TVE FHD
+https://blackghost.live/play/gnula-325.php?c=64009|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NmDvKTk/24h.png"  group-title="Lista España 4",24h
+https://blackghost.live/play/gnula-325.php?c=64010|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3pNTbfR/Hispan-TV.png"  group-title="Lista España 4",Hispan TV
+https://blackghost.live/play/gnula-325.php?c=64011|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",CGTN En Espanol
+https://blackghost.live/play/gnula-325.php?c=64012|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Gran Hermano HD
+https://blackghost.live/play/gnula-325.php?c=64013|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWdPByN.jpg"  group-title="Lista España 4",MEGA
+https://blackghost.live/play/gnula-325.php?c=64014|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWdPByN.jpg"  group-title="Lista España 4",MEGA HD
+https://blackghost.live/play/gnula-325.php?c=64015|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",BeMad
+https://blackghost.live/play/gnula-325.php?c=64017|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",BeMad HD
+https://blackghost.live/play/gnula-325.php?c=64018|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCwR4XV/Dkiss.png"  group-title="Lista España 4",Dkiss
+https://blackghost.live/play/gnula-325.php?c=64020|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2xGXr0/DMAX.png"  group-title="Lista España 4",DMAX
+https://blackghost.live/play/gnula-325.php?c=64021|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMfG33r/Divinity.png"  group-title="Lista España 4",Divinity
+https://blackghost.live/play/gnula-325.php?c=64022|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QQxH6d4/Energy.png"  group-title="Lista España 4",Energy
+https://blackghost.live/play/gnula-325.php?c=64023|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vVG30kg/Blaze.png"  group-title="Lista España 4",Blaze
+https://blackghost.live/play/gnula-325.php?c=64024|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4mM3G9F/Nova.png"  group-title="Lista España 4",Nova
+https://blackghost.live/play/gnula-325.php?c=64026|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jJpXcgW/Odisea.png"  group-title="Lista España 4",Odisea
+https://blackghost.live/play/gnula-325.php?c=64028|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jJpXcgW/Odisea.png"  group-title="Lista España 4",Odisea HD
+https://blackghost.live/play/gnula-325.php?c=64029|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P5FWZpZ/FDF.png"  group-title="Lista España 4",FDF
+https://blackghost.live/play/gnula-325.php?c=64031|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TLJH21z/Neox.png"  group-title="Lista España 4",Neox
+https://blackghost.live/play/gnula-325.php?c=64032|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TLJH21z/Neox.png"  group-title="Lista España 4",Neox HD
+https://blackghost.live/play/gnula-325.php?c=64033|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hMjFFS4/Ten.png"  group-title="Lista España 4",Ten
+https://blackghost.live/play/gnula-325.php?c=64035|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WPXPjyB/Crimen-Investigacion.png"  group-title="Lista España 4",Crimen Investigacion
+https://blackghost.live/play/gnula-325.php?c=64036|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3R5tn45/Discovery-Channel.png"  group-title="Lista España 4",Discovery Channel HD
+https://blackghost.live/play/gnula-325.php?c=64038|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sb4tzGw/Historia.png"  group-title="Lista España 4",Historia HD
+https://blackghost.live/play/gnula-325.php?c=64041|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R2yrQjY/Nat-Geo-Wild.png"  group-title="Lista España 4",Nat Geo Wild HD
+https://blackghost.live/play/gnula-325.php?c=64044|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rs2rVgx/National-Geographic.png"  group-title="Lista España 4",National Geographic HD
+https://blackghost.live/play/gnula-325.php?c=64047|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QdL5cJn/Canal-Orbe-21.png"  group-title="Lista España 4",Canal Orbe 21
+https://blackghost.live/play/gnula-325.php?c=64049|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LvVMHyF/Canal-Sur-Andalucia.png"  group-title="Lista España 4",Canal  Andalucia
+https://blackghost.live/play/gnula-325.php?c=64050|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Canal  HD
+https://blackghost.live/play/gnula-325.php?c=64051|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jD73GXk/Comedy-Central.png"  group-title="Lista España 4",Comedy Central HD
+https://blackghost.live/play/gnula-325.php?c=64053|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lkb7RXW/Decasa.png"  group-title="Lista España 4",Decasa HD
+https://blackghost.live/play/gnula-325.php?c=64055|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NFXgMtd/Canal-Cocina.png"  group-title="Lista España 4",Canal Cocina HD
+https://blackghost.live/play/gnula-325.php?c=64059|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F83Bhnh/COSMO.png"  group-title="Lista España 4",COSMO HD
+https://blackghost.live/play/gnula-325.php?c=64062|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZxpBGwn/Viajar.png"  group-title="Lista España 4",Viajar HD
+https://blackghost.live/play/gnula-325.php?c=64065|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fnHCbky/Toros-TV.png"  group-title="Lista España 4",Toros TV HD
+https://blackghost.live/play/gnula-325.php?c=64068|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0XKLf5C/Cazavision.png"  group-title="Lista España 4",Cazavision
+https://blackghost.live/play/gnula-325.php?c=64070|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",#0 HD
+https://blackghost.live/play/gnula-325.php?c=64072|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RTT6Djh/AMC.png"  group-title="Lista España 4",AMC HD
+https://blackghost.live/play/gnula-325.php?c=64075|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j8WrHH7/AXN.png"  group-title="Lista España 4",AXN HD
+https://blackghost.live/play/gnula-325.php?c=64078|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kgHxKrz/AXN-White.png"  group-title="Lista España 4",AXN White HD
+https://blackghost.live/play/gnula-325.php?c=64081|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qdDgKnH/Calle-13.png"  group-title="Lista España 4",Calle 13 HD
+https://blackghost.live/play/gnula-325.php?c=64084|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",DARK HD
+https://blackghost.live/play/gnula-325.php?c=64086|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",DARK FHD
+https://blackghost.live/play/gnula-325.php?c=64087|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rmRKx5B/FOX.png"  group-title="Lista España 4",FOX HD
+https://blackghost.live/play/gnula-325.php?c=64089|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9pjkJt0/FOX-Life.png"  group-title="Lista España 4",FOX Life HD
+https://blackghost.live/play/gnula-325.php?c=64092|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3hsn7jj/Caza-y-Pesca.png"  group-title="Lista España 4",Caza y Pesca HD
+https://blackghost.live/play/gnula-325.php?c=64095|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",SOMOS HD
+https://blackghost.live/play/gnula-325.php?c=64098|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m61P65t/Iberalia-TV.png"  group-title="Lista España 4",Iberalia TV
+https://blackghost.live/play/gnula-325.php?c=64100|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",A3Series HD
+https://blackghost.live/play/gnula-325.php?c=64101|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",A3Series Internacional
+https://blackghost.live/play/gnula-325.php?c=64103|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3RvGtts/Hollywood.png"  group-title="Lista España 4",Hollywood HD
+https://blackghost.live/play/gnula-325.php?c=64106|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Orange Series SD
+https://blackghost.live/play/gnula-325.php?c=64108|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Orange Series FHD
+https://blackghost.live/play/gnula-325.php?c=64109|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mF4TxzW/SyFy.png"  group-title="Lista España 4",SyFy HD
+https://blackghost.live/play/gnula-325.php?c=64136|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",TCM FHD
+https://blackghost.live/play/gnula-325.php?c=64139|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lzdxm7k/TNT.png"  group-title="Lista España 4",TNT HD
+https://blackghost.live/play/gnula-325.php?c=64142|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",XTRM HD
+https://blackghost.live/play/gnula-325.php?c=64145|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Alquiler 1 HD
+https://blackghost.live/play/gnula-325.php?c=64147|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Alquiler 2 HD
+https://blackghost.live/play/gnula-325.php?c=64148|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Alquiler 3 HD
+https://blackghost.live/play/gnula-325.php?c=64149|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Alquiler 4 HD
+https://blackghost.live/play/gnula-325.php?c=64150|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Alquiler 5 HD
+https://blackghost.live/play/gnula-325.php?c=64151|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Alquiler 6 HD
+https://blackghost.live/play/gnula-325.php?c=64152|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Taquilla 1 FHD
+https://blackghost.live/play/gnula-325.php?c=64153|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Taquilla 2 FHD
+https://blackghost.live/play/gnula-325.php?c=64154|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Taquilla 3 FHD
+https://blackghost.live/play/gnula-325.php?c=64155|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Taquilla 4 FHD
+https://blackghost.live/play/gnula-325.php?c=64156|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rcydMLS/Bom-Cine.png"  group-title="Lista España 4",Bom Cine
+https://blackghost.live/play/gnula-325.php?c=64157|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dbq4Rp5/Paramount-Channel.png"  group-title="Lista España 4",Paramount Channel
+https://blackghost.live/play/gnula-325.php?c=64158|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Telemadrid HD
+https://blackghost.live/play/gnula-325.php?c=64159|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Sundance TV
+https://blackghost.live/play/gnula-325.php?c=64161|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jJycZrj/Boing.png"  group-title="Lista España 4",Boing
+https://blackghost.live/play/gnula-325.php?c=64162|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jJycZrj/Boing.png"  group-title="Lista España 4",Boing HD
+https://blackghost.live/play/gnula-325.php?c=64163|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5rF71CV/Clan-TVE.png"  group-title="Lista España 4",Clan TVE HD
+https://blackghost.live/play/gnula-325.php?c=64165|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/34Ynnnz/Disney-Channel.png"  group-title="Lista España 4",Disney Channel HD
+https://blackghost.live/play/gnula-325.php?c=64168|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Disney Junior
+https://blackghost.live/play/gnula-325.php?c=64170|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8XPXPjP/Nick-Jr.png"  group-title="Lista España 4",Nick Jr
+https://blackghost.live/play/gnula-325.php?c=64171|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pr8Try8/Nickelodeon.png"  group-title="Lista España 4",Nickelodeon HD
+https://blackghost.live/play/gnula-325.php?c=64173|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tPNj5fw/Canal-Panda.png"  group-title="Lista España 4",Canal Panda
+https://blackghost.live/play/gnula-325.php?c=64175|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tYjJNLr/Baby-TV.png"  group-title="Lista España 4",Baby TV
+https://blackghost.live/play/gnula-325.php?c=64176|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",MTV Espana
+https://blackghost.live/play/gnula-325.php?c=64177|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n6zHfL3/Mezzo.png"  group-title="Lista España 4",Mezzo
+https://blackghost.live/play/gnula-325.php?c=64178|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n6zHfL3/Mezzo.png"  group-title="Lista España 4",Mezzo HD
+https://blackghost.live/play/gnula-325.php?c=64179|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n6zHfL3/Mezzo.png"  group-title="Lista España 4",Mezzo FHD
+https://blackghost.live/play/gnula-325.php?c=64180|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Movistar Fest
+https://blackghost.live/play/gnula-325.php?c=64181|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",TV3 HD
+https://blackghost.live/play/gnula-325.php?c=64182|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",TV3 FHD
+https://blackghost.live/play/gnula-325.php?c=64183|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",TV3 Infantil (Eventos)
+https://blackghost.live/play/gnula-325.php?c=64184|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Bondia TV
+https://blackghost.live/play/gnula-325.php?c=64185|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Televisio de Girona
+https://blackghost.live/play/gnula-325.php?c=64186|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Esplugues TV
+https://blackghost.live/play/gnula-325.php?c=64187|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Aran TV
+https://blackghost.live/play/gnula-325.php?c=64188|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Vall?s Oriental TV
+https://blackghost.live/play/gnula-325.php?c=64189|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",TAC 12 HD
+https://blackghost.live/play/gnula-325.php?c=64190|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Mirame TV
+https://blackghost.live/play/gnula-325.php?c=64191|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",9 La Loma
+https://blackghost.live/play/gnula-325.php?c=64192|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Diez TV
+https://blackghost.live/play/gnula-325.php?c=64193|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Cadena Elite TV Granada
+https://blackghost.live/play/gnula-325.php?c=64194|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Canal Extremadura TV
+https://blackghost.live/play/gnula-325.php?c=64195|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",TV Galicia Europa SD
+https://blackghost.live/play/gnula-325.php?c=64196|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",TV Galicia America SD
+https://blackghost.live/play/gnula-325.php?c=64197|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Melilla TV SD
+https://blackghost.live/play/gnula-325.php?c=64198|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",7RM Radio Television Murcia
+https://blackghost.live/play/gnula-325.php?c=64199|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Hamaika FHD
+https://blackghost.live/play/gnula-325.php?c=64200|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Tele Bilbao
+https://blackghost.live/play/gnula-325.php?c=64201|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Lleida TV
+https://blackghost.live/play/gnula-325.php?c=64202|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/47gDLyR/TV-Galicia-America.png"  group-title="Lista España 4",TV Galicia America HD
+https://blackghost.live/play/gnula-325.php?c=64203|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HHwZLNv/TV-Galicia-Cultura.png"  group-title="Lista España 4",TV Galicia Cultura
+https://blackghost.live/play/gnula-325.php?c=64204|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G32CNSj/TV-Galicia-Europa.png"  group-title="Lista España 4",TV Galicia Europa HD
+https://blackghost.live/play/gnula-325.php?c=64205|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7TmT8J/TV-Galicia-Momentos-G.png"  group-title="Lista España 4",TV Galicia Momentos G HD
+https://blackghost.live/play/gnula-325.php?c=64206|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4gv2d9Z/TV-Galicia-Infantil.png"  group-title="Lista España 4",TV Galicia Infantil HD
+https://blackghost.live/play/gnula-325.php?c=64207|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dmqnrrj/Teleonuba.png"  group-title="Lista España 4",Teleonuba HD
+https://blackghost.live/play/gnula-325.php?c=64208|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pWz3Yvb/RTPA-Asturias.png"  group-title="Lista España 4",RTPA Asturias
+https://blackghost.live/play/gnula-325.php?c=64209|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GxMQrVT/Lebrija-TV.png"  group-title="Lista España 4",Lebrija TV
+https://blackghost.live/play/gnula-325.php?c=64210|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k5pkKYB/Alcarria-TV.png"  group-title="Lista España 4",Alcarria TV
+https://blackghost.live/play/gnula-325.php?c=64211|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",A Punt SD
+https://blackghost.live/play/gnula-325.php?c=64212|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",A Punt HD
+https://blackghost.live/play/gnula-325.php?c=64213|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RDJLxSY/Intereconomia.png"  group-title="Lista España 4",Intereconomia
+https://blackghost.live/play/gnula-325.php?c=64214|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Onda Cadiz HD
+https://blackghost.live/play/gnula-325.php?c=64215|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Canal Costa HD
+https://blackghost.live/play/gnula-325.php?c=64216|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Interalmeria FHD
+https://blackghost.live/play/gnula-325.php?c=64217|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",PTV Cordoba HD
+https://blackghost.live/play/gnula-325.php?c=64218|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Marbella TV
+https://blackghost.live/play/gnula-325.php?c=64219|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Canal Malaga
+https://blackghost.live/play/gnula-325.php?c=64220|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Aragon TV
+https://blackghost.live/play/gnula-325.php?c=64221|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Huesca TV
+https://blackghost.live/play/gnula-325.php?c=64222|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Canal 25 Barbastro TV
+https://blackghost.live/play/gnula-325.php?c=64223|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",RTP Asturias
+https://blackghost.live/play/gnula-325.php?c=64224|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Popular TV
+https://blackghost.live/play/gnula-325.php?c=64225|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Castilla-La Mancha Media
+https://blackghost.live/play/gnula-325.php?c=64226|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Imas TV
+https://blackghost.live/play/gnula-325.php?c=64227|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Canal Diocesano Toledo
+https://blackghost.live/play/gnula-325.php?c=64228|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",RTV Castilla y Leon SD (web)
+https://blackghost.live/play/gnula-325.php?c=64229|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",RTV Castilla y Leon HD (web)
+https://blackghost.live/play/gnula-325.php?c=64230|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",ETB SAT
+https://blackghost.live/play/gnula-325.php?c=64231|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",ETB 1 SD
+https://blackghost.live/play/gnula-325.php?c=64232|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",ETB 2 SD
+https://blackghost.live/play/gnula-325.php?c=64233|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LJJ0cFn/ETB-1.png"  group-title="Lista España 4",ETB 1 HD
+https://blackghost.live/play/gnula-325.php?c=64234|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MNsrxwY/ETB-2.png"  group-title="Lista España 4",ETB 2 HD
+https://blackghost.live/play/gnula-325.php?c=64235|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",7RM
+https://blackghost.live/play/gnula-325.php?c=64236|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",7RM FHD
+https://blackghost.live/play/gnula-325.php?c=64237|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",TV Centro Andalucia
+https://blackghost.live/play/gnula-325.php?c=64238|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Onda Algeciras TV
+https://blackghost.live/play/gnula-325.php?c=64239|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Los Simpsons 24H
+https://blackghost.live/play/gnula-325.php?c=64240|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Los Simpsons HD 24H
+https://blackghost.live/play/gnula-325.php?c=64241|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Futurama 24H
+https://blackghost.live/play/gnula-325.php?c=64242|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Futurama HD 24H
+https://blackghost.live/play/gnula-325.php?c=64243|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Padre de Familia 24H
+https://blackghost.live/play/gnula-325.php?c=64244|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Ben Y Holly 24H
+https://blackghost.live/play/gnula-325.php?c=64245|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Fabulas de Disney 24H
+https://blackghost.live/play/gnula-325.php?c=64246|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Patrulla Canina 24H
+https://blackghost.live/play/gnula-325.php?c=64247|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Vaca y Pollito 24h
+https://blackghost.live/play/gnula-325.php?c=64248|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Super Wings 24H
+https://blackghost.live/play/gnula-325.php?c=64249|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",El Bebe Jefazo (Vuelta al curro) 24H
+https://blackghost.live/play/gnula-325.php?c=64250|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Wabbit 24H
+https://blackghost.live/play/gnula-325.php?c=64251|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",El Principe de Bel Air 24H
+https://blackghost.live/play/gnula-325.php?c=64252|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",La Que se Avecina 24H
+https://blackghost.live/play/gnula-325.php?c=64253|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Pippi Calzaslargas 24H
+https://blackghost.live/play/gnula-325.php?c=64254|User-Agent=GNULATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S30TJRq.png"  group-title="Lista España 4",Xena La Princesa Guerrera 24H
+https://blackghost.live/play/gnula-325.php?c=64255|User-Agent=GNULATV
+
 #EXTINF:-1 ,AMORDISCOS AGOSTO
 #EXTGRP: colombia
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8
