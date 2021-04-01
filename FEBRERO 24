@@ -189,6 +189,14 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
 #EXTGRP: "PELICULAS"
 https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 
+#EXTINF:-1 ,Que nada nos separe
+#EXTGRP: "PELICULAS"
+http://127.0.0.1:4445/Quenadanossepare720pDUAL.mkv
+
+#EXTINF:-1 ,Rescatando a Flora
+#EXTGRP:"PELICULAS"
+http://127.0.0.1:4445/RescatandoaFlora720pLAT.mp4
+
 #EXTINF:-1 ,JIGSAW VIII
 #EXTGRP:"PELICULAS"
 https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
