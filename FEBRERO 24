@@ -5,6 +5,47 @@
 #EXTGRP: colombia
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8
 
+
+#EXTINF:-1 ,canaltro plus
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
+
+#EXTINF:-1 ,Ranchenato
+http://66.240.236.25:1936/ranchenato/ranchenato_360p/playlist.m3u8
+
+#EXTINF:-1 ,NTN24
+https://rcnhd.cdn.net.co/live04/ntn24_480p.m3u8
+
+#EXTINF:-1 ,????
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1/manifest.m3u8
+
+#EXTINF:-1 ,TV Agro
+http://179.1.7.198:1935/live/TVAgroHD.stream_360p/playlist.m3u8
+
+#EXTINF:-1 ,WinSport
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_2.m3u8
+
+#EXTINF:-1 ,Teleantioquia
+https://hdvideo2.cdn.net.co/live01/ta.m3u8
+
+#EXTINF:-1 ,Telecaribe
+https://tkx.apis.anvato.net/rest/v2/mcp/video/adstB64MXYxqLZwy?anvack=4gXmVVoVIp3YeECJWm6af3j0mlHwl6vO&eud=SKjoH1L%2F9Enwo5zQBiBTRfTSNGfENMNO6udm4CQNVvix%2FL9XX8kucBOvzWalIghNrL5GllGH8ou17ICYGv29Rg%3D%3D
+
+#EXTINF:-1 ,Teleislas
+https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8
+
+#EXTINF:-1 ,Cali TV
+https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
+
+#EXTINF:-1 ,De amores y delitos-El Alma del Maiz
+#EXTGRP:"PELICULAS"
+plugin://plugin.video.colombiatv/?mode=okru&vid=2551607265995
+
+#EXTINF:-1 ,Chichipatos - Que chimba de navidad
+#EXTGRP:"PELICULAS"
+https://plugin.video.colombiatv/?mode=okru&vid=2551580986059
+
+
+
 #EXTINF:-1 , Valle visión
 #EXTGRP: colombia
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
