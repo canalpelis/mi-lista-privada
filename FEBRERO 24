@@ -6,6 +6,65 @@
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8
 
 
+
+#EXTINF:-1 ,Asylum el experimento
+#EXTGRP:"PELICULAS"
+http://127.0.0.1:4443/pbIEzDIZ!dJ8SKniDZHJZA3hqslimd-l47HpK1RKn2I1YiksNU60/Asylum+El+experimento+1080p+LAT+id_207933.mp4
+
+#EXTINF:-1 ,Armstrong
+#EXTGRP:"PELICULAS"
+http://127.0.0.1:4443/hHxHUKRR!d1FVuxdqbvo71byohLkZoTH3dvpltgsYZ-uZqSSmd8k/Armstrong+1080p+LAT+id_479355.mp4
+
+
+#EXTINF:-1 ,Más locos que una cabra
+#EXTGRP:"PELICULAS"
+http://127.0.0.1:4443/JKInlQgb!xwBsDmFF-z7fbpis22L2s_7sNC33BQfuBoxwizm-uXk/M%c3%a1s+locos+que+una+cabra+720p+LAT+id_799497.mkv
+
+#EXTINF:-1 ,72 horas después
+#EXTGRP:"PELICULAS"
+http://127.0.0.1:4443/0To0kLDZ!kH3cW-ZPyef9ShoNJ_fyVsnRAO7kbUXfuz9ZsspjE7s/72+Horas+Despu%c3%a9s+720p+LAT+id_754219.mkv
+
+#EXTINF:-1 ,La Liga de la justicia
+#EXTGRP:"PELICULAS"
+http://127.0.0.1:4443/lCAljY5a!JKr9IaBYkOQl-LQkPPMmESaJSEit7eTMnZKemLcU494/La+Liga+de+la+Justicia+720p+LAT+id_791373.mkv
+
+#EXTINF:-1 ,Situación al límite
+#EXTGRP:"PELICULAS"
+http://127.0.0.1:4443/wKwUUIKR!I6hzBbgXvJ7O7xuDRjvMMt4Bia7FdKfQJJebPPruuI4/Situaci%c3%b3n+al+Limite+720p+DUAL+id_75736.mkv
+
+#EXTINF:-1 ,Rocket hunter
+#EXTGRP:"PELICULAS"
+http://127.0.0.1:4443/ICx2mDBZ!2gF8jHI9rEbuWl164ZKo8jo5balMbB3_kQ7uIgD5YNM/Rocket+Hunter+2020+720p+DUAL+id_666180.mkv
+
+
+#EXTINF:-1 ,La pasión de Cristo
+#EXTGRP:"PELICULAS"
+http://127.0.0.1:4443/0eI1FY4Q!WNSE92PXHHNuJXVfVI3PjC8dk3pqxbxE5ukMf5wcMLc/La+Pasion+de+Cristo+720p+LAT+id_615.mp4
+
+#EXTINF:-1 ,Pablo apóstol de Cristo
+#EXTGRP:"PELICULAS"
+http://127.0.0.1:4443/0CJSiZyC!DEZ31K6dKOoMo2L95_inIZppT3pGMA3brMC5ZSw5x60/Pablo++Apostol+de+Cristo+LAT+id_476968.mkv
+
+
+#EXTINF:-1 ,Jesus de nazaret
+#EXTGRP:"PELICULAS"
+http://127.0.0.1:4443/BaRSmKKQ!tfcwK4L04k3f-8v4j17eT0WZtivSJmhfMHFjFLraMc4/Jes%c3%bas+de+Nazareth+1080p+id_691681.mp4
+
+#EXTINF:-1 ,Jesus 
+#EXTGRP:"PELICULAS"
+http://127.0.0.1:4443/EKwnTAgb!wSTdlCHZtzk1lbFNgbaU1vo2BTOMiYTrgdP_Yi-32Mk/Jes%c3%bas+%281979%29+1080p+id_45139.mkv
+
+#EXTINF:-1 ,Jesus el Macimiento
+#EXTGRP:"PELICULAS"
+http://127.0.0.1:4443/FLolgQCD!zUf1L-9NF_9VJ1uDlAi5rtLBZbYSSIkX0iFpkgdbfE4/La+Historia+de+la+Natividad+%282006%29+1080p+id_2447.mkv
+
+#EXTINF:-1 ,Los dos papas
+#EXTGRP:"PELICULAS"
+http://127.0.0.1:4443/Yb5DDaJD!dfw-q2-xk1sb5RNFcWY4pWA8Krsgd6E_wnSdPVvRMEY/Los+dos+papas+1080p+id_551332.mp4
+
+
+
+
 #EXTINF:-1 ,Ranchenato
 http://66.240.236.25:1936/ranchenato/ranchenato_360p/playlist.m3u8
 
