@@ -6,10 +6,1136 @@
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8
 
 
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-liga-campeones.jpg" group-title="Lista 29", M LIGA DE CAMPEONES  HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/3309
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjV-u5jw-GdHMR9tjbDC9wxDWINx3jLXRUQ&usqp=CAU" group-title="Lista 29", CINE  | A&E HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6390
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjV-u5jw-GdHMR9tjbDC9wxDWINx3jLXRUQ&usqp=CAU" group-title="Lista 29", CINE  | A&E FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6391
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfZHCTNPT7apHPjvoPB56x8B5hBwNjhwgFvQ&usqp=CAU" group-title="Lista 29", CINE  | AMC  HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6392
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_cinecanal-1_m.png" group-title="Lista 29", CINE  | CINECANAL HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6394
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_4V9VTQDfgBoVWe8JKGO4_ia6tKl1Gdc40A&usqp=CAU" group-title="Lista 29", CINE  | CINEMAX HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6395
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png" group-title="Lista 29", CINE  | STAR LIFE  HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6398
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhNQ-fYN8cRSS6qrCdWcsBzdP5fNZXnQ24Sg&usqp=CAU" group-title="Lista 29", CINE  | STAR HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6399
+
+#EXTINF:-1 tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/Star_Action_pack.png" group-title="Lista 29", CINE  | STAR ACTION HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6400
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Star_Cinema_2020.svg" group-title="Lista 29", CINE  | STAR CINEMA HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6401
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Star_Classics_2020.svg" group-title="Lista 29", CINE  | STAR  CLASSICS HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6402
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Star_Comedy_2020.svg/1200px-Star_Comedy_2020.svg.png" group-title="Lista 29", CINE  | STAR  COMEDY HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6403
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Star_Fun_2020.svg/1200px-Star_Fun_2020.svg.png" group-title="Lista 29", CINE  | STAR  FAMILY HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6404
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXSeixNPG0H2RQYMmnbuIl_73XGh1iiGLGkw&usqp=CAU" group-title="Lista 29", CINE  | FOX  MOVIES HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6405
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDluDXwfb1_ai_YErTBBD1Wz1-n-fHj9g3dw&usqp=CAU" group-title="Lista 29", CINE  | FX  HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6407
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh5-2zA8d8BZ17XPVLEidzJj-s8rKlOoTntg&usqp=CAU" group-title="Lista 29", CINE  | FXM HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6408
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_MXCN8YTJUs_t4zTDTivh73cIHqA2A3Drw&usqp=CAU" group-title="Lista 29", CINE  | GOLDEN EDGE HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6409
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn7RVA0Dui2uN-Zo47YAaSH2FvFXbs2mZj4Q&usqp=CAU" group-title="Lista 29", CINE  | GOLDEN HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6410
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhf-ISIGkeFPEvPOjY5mqVqXEbwMk8wcaPdQ&usqp=CAU" group-title="Lista 29", CINE  | HBO 2 HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6412
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdFmr4AU0B2pcm5mcgHL0rEN3FqoKAPNsj9g&usqp=CAU" group-title="Lista 29", CINE  | SONY CHANNEL HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6418
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSFpQgeYguHAPOh8PBeiWnoHbr6NcLnQphqQ&usqp=CAU" group-title="Lista 29", CINE  | SPACE CHANNEL  HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6419
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_G4WnSyQgJoobZi_JQ1D0HNpClNyqCAmTDg&usqp=CAU" group-title="Lista 29", CINE  | STUDIO UNIVERSAL HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6421
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfWSDKwg1sqzGHqtXFPxFy4waN0yN8DktfXQ&usqp=CAU" group-title="Lista 29", CINE | TCM HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6427
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgTdgtcI0XIKzMrWgddZf9bq0vQnMRjbggGA&usqp=CAU" group-title="Lista 29", CINE | TNT LATINO HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6428
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="Lista 29", CINE | UNIVERSAL CHANNEL HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6431
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUohMtK-kJBqczKHNrpt9PISuzjDNheEgJAA&usqp=CAU" group-title="Lista 29", CINE | WARNER TV HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6432
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTajK-NzQCcjimut4_9LXsdc5N12yWJw_pT-Q&usqp=CAU" group-title="Lista 29", CINE | TNT SERIES HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6436
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgTdgtcI0XIKzMrWgddZf9bq0vQnMRjbggGA&usqp=CAU" group-title="Lista 29", CINE | TNT HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6438
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfWSDKwg1sqzGHqtXFPxFy4waN0yN8DktfXQ&usqp=CAU" group-title="Lista 29", CINE | TCM HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6439
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdFmr4AU0B2pcm5mcgHL0rEN3FqoKAPNsj9g&usqp=CAU" group-title="Lista 29", CINE | SONY CHANNEL HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6440
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn7RVA0Dui2uN-Zo47YAaSH2FvFXbs2mZj4Q&usqp=CAU" group-title="Lista 29", CINE | GOLDEN HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6441
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9O4LcnjKCXpeYqAKqoMBL8AlgEW4KvxMe9w&usqp=CAU" group-title="Lista 29", CINE | GOLDEN PREMIER HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6442
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5801G25bKs4eU0XVh1FBMQ_-JWw-Xu_A2kA&usqp=CAU" group-title="Lista 29", CINE | FOX SERIES HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6443
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMi60HRoP1X7d_zoGpRtiKM5SvREJXAmuAQA&usqp=CAU" group-title="Lista 29", CINE | FOX LIFE HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6447
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuUqMEjynSl9Cw-sEmx3x_szik6ysycCcPLQ&usqp=CAU" group-title="Lista 29", CINE | FOX ACTION FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6453
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDluDXwfb1_ai_YErTBBD1Wz1-n-fHj9g3dw&usqp=CAU" group-title="Lista 29", CINE | FX HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6455
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRptoOhN1gbpJ5kfuWFHIvFWXlg5TP2Ws4fwA&usqp=CAU" group-title="Lista 29", CINE | AXN HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6460
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjV-u5jw-GdHMR9tjbDC9wxDWINx3jLXRUQ&usqp=CAU" group-title="Lista 29", CINE  | A&E   HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6461
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcy9c_PN7fR7Zc5CA5ClkN6n_7Cf2vBX-2uQ&usqp=CAU" group-title="Lista 29", CINE | HBO SIGNATURE HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6465
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4kPKCianAxKUICKCvqi0BeRK3AdbdSo3waQ&usqp=CAU" group-title="Lista 29", CINE  | HBO PLUS  HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6466
+
+#EXTINF:-1 tvg-logo="data:image/png;base64 group-title=" group-title="Lista 29", CINE | HBO FAMILY HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6467
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhf-ISIGkeFPEvPOjY5mqVqXEbwMk8wcaPdQ&usqp=CAU" group-title="Lista 29", CINE  | HBO HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6469
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5GJ0jWlMKL56y06CajivSsd-oV5xLrQbf7Q&usqp=CAU" group-title="Lista 29", CINE  | FOX CINEMA HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6471
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz1-cDSqljUk5REpG4guBuP1562y7xeuN3oA&usqp=CAU" group-title="Lista 29", CINE  | FOX CHANNEL HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6472
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRUnZVQ4llEaUrNKscaH_Qf7N6SNUJrjuFwA&usqp=CAU" group-title="Lista 29", CO*| CABLE NOTICIAS (A)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6488
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOi5kc3I_fbAFBJG5aKWccBtjxnTm6vQ4dSA&usqp=CAU" group-title="Lista 29", CO*| CANAL UNO (p)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6489
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4H_5yedAWbaMzPCwJjM_TPAdcjifJ5R32PA&usqp=CAU" group-title="Lista 29", CO*| CARACOL HD (OP02)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6491
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdAofv4Pk_to70p9vdkEpCgDegrFy9kpIJJg&usqp=CAU" group-title="Lista 29", CO*| PASIONES (p)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6493
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCCLC4e0T2KuD2I22MsYpF1l7r6ueC9uA0HQ&usqp=CAU" group-title="Lista 29", CO*| RCN (A)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6494
+
+#EXTINF:-1 tvg-logo="data:image/png;base64 group-title=" group-title="Lista 29", CO*| TELEPACIFICO (L)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6499
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiX5y_PIYwVGgNNpKlGQhh4DUzJ8YG3BHqKg&usqp=CAU" group-title="Lista 29", OROMAR TV HD (P)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6594
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcANT4xc6-vdB2da-3nQstydU2xA2kjkRFrA&usqp=CAU" group-title="Lista 29", TELEAMAZONAS HD (P)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6595
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qM7GfDTvfBO-q63HLUW-QsbNWXiZEwqhkw&usqp=CAU" group-title="Lista 29", AR* | TV PUBLICA (ST)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6616
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRL_0iZ7hJH2d4qbdZ73r_qkKqe8ws4rNkLg&usqp=CAU" group-title="Lista 29", AR* | GARAGE (P)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6625
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMvoHnsrX67A_qI8aEq0K4XNMVVAuPc4bIkg&usqp=CAU" group-title="Lista 29", LA LIGA TV BAR  HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/6640
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNGOFuHiTeL2e_ycDR_0CKEK2gr71AiQBjYw&usqp=CAU" group-title="Lista 29", CO*| WIN SPORTS HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/8790
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="Lista 29", CINE | HBO  POP
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/57262
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRy0qLwgaLIcQiRDNcfLBbI4315iUn33OaeA&usqp=CAU" group-title="Lista 29", El Canal del Futbol
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/57842
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG9S4HUAieJIjtSZKjo3rRlMgnNNw1eD1vBw&usqp=CAU" group-title="Lista 29", LAT | DIRECTV SPORTS FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/57850
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtKJf8kYphLHqx-SNmmn9iIvIR1sC2e-AXRA&usqp=CAU" group-title="Lista 29", UCSG
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/57851
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLIhSB0PTfiaNDgHDtxnum17IEZxk9-AU3vQ&usqp=CAU" group-title="Lista 29", GOL TV  HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/57857
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuAXOut2iKnVF-ygqHDDO5kZCm5wlskOk6og&usqp=CAU" group-title="Lista 29", TELEAMAZONAS QUITO HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/57860
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLIhSB0PTfiaNDgHDtxnum17IEZxk9-AU3vQ&usqp=CAU" group-title="Lista 29", Goltv Ecuador SD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/76151
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCCLC4e0T2KuD2I22MsYpF1l7r6ueC9uA0HQ&usqp=CAU" group-title="Lista 29", CO*| RCN OPCION 2
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/76983
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4H_5yedAWbaMzPCwJjM_TPAdcjifJ5R32PA&usqp=CAU" group-title="Lista 29", CO*| CARACOL (OP03)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/77275
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQdJlAf2plKhA0ZXI73DjTSaQ2h7bsJYLh4A&usqp=CAU" group-title="Lista 29", CO*| TELECARIBE
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/77278
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNWwHz2tfT0g-SDG6T2z3N0OB3maysgCzt6A&usqp=CAU" group-title="Lista 29", CO*| SEÑAL COLOMBIA HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/77279
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeK9p-M7uQx543N3izSMiY7hdq_qOUDXzO-Q&usqp=CAU" group-title="Lista 29", CO*| CANAL CAPITAL HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/77280
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9WDqbNOpmk6vTkJJLdJrR_1f6i4Hkw9x6xQ&usqp=CAU" group-title="Lista 29", REEDIFICANDO LOS MUROS CAIDOS RADIO
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/105446
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9WDqbNOpmk6vTkJJLdJrR_1f6i4Hkw9x6xQ&usqp=CAU" group-title="Lista 29", CTN INT.
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/105447
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9WDqbNOpmk6vTkJJLdJrR_1f6i4Hkw9x6xQ&usqp=CAU" group-title="Lista 29", LOGOS
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/105451
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9WDqbNOpmk6vTkJJLdJrR_1f6i4Hkw9x6xQ&usqp=CAU" group-title="Lista 29", RADIO IMPACTO
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/105459
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9WDqbNOpmk6vTkJJLdJrR_1f6i4Hkw9x6xQ&usqp=CAU" group-title="Lista 29", RADIO RESTAURACION
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/105460
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9WDqbNOpmk6vTkJJLdJrR_1f6i4Hkw9x6xQ&usqp=CAU" group-title="Lista 29", ELIM TV
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/105461
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9WDqbNOpmk6vTkJJLdJrR_1f6i4Hkw9x6xQ&usqp=CAU" group-title="Lista 29", Comunion TV
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/105469
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNGOFuHiTeL2e_ycDR_0CKEK2gr71AiQBjYw&usqp=CAU" group-title="Lista 29", CO*| WIN SPORTS + OP 1
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/113307
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNGOFuHiTeL2e_ycDR_0CKEK2gr71AiQBjYw&usqp=CAU" group-title="Lista 29", CO*| WIN SPORTS +OP2
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/113308
+
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s172053q.png" group-title="Lista 29", PORTAL FOXMIX
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/115564
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm70YAeSYQQQm0rEMBik4mCNrFEOD-9QX0-A&usqp=CAU" group-title="Lista 29", MUSIC TOP
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/115566
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZkOSnnsD9PfPts0Qm18Uy_mdtih2378ZvHw&usqp=CAU" group-title="Lista 29", RETRO MUSIC
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/115567
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc32B9IIAtys0LFHltCAjmXry2GdhUfRyDrA&usqp=CAU" group-title="Lista 29", HECHOS ECUADOR
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/115590
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5801G25bKs4eU0XVh1FBMQ_-JWw-Xu_A2kA&usqp=CAU" group-title="Lista 29", CINE | FOX SERIES HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/115769
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgNBuGkCb_OHpM1RUDfOaIwZNYdZc6KGlRCg&usqp=CAU" group-title="Lista 29", CINE | FOX COMEDY HD (F)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/115907
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8SHu9dwpihrUacyWGrFytns0pGd3Q6eX4lQ&usqp=CAU" group-title="Lista 29", CINE | FOX FAMILY SD (F)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/115908
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG9S4HUAieJIjtSZKjo3rRlMgnNNw1eD1vBw&usqp=CAU" group-title="Lista 29", AR* | DIRECTV SPORTS
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/116168
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9KFNvqN2vB8YgoP8tnn_NhXnH2iDKlFANaQ&usqp=CAU" group-title="Lista 29", M2O TV
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/116630
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSasDFfVsIERritF7dXVqNugqAU_BocwSerRw&usqp=CAU" group-title="Lista 29", ECOTEL TV
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/116930
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="Lista 29", BR. | Espn 1 HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122580
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="Lista 29", BR. | Espn 2 HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122581
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ92nyrGIFjiEcPKhiB8iXjB6391N291oTLyQ&usqp=CAU" group-title="Lista 29", BR. | Espn Brasil HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122582
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ92nyrGIFjiEcPKhiB8iXjB6391N291oTLyQ&usqp=CAU" group-title="Lista 29", BR. | Espn Brasil SD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122583
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRptoOhN1gbpJ5kfuWFHIvFWXlg5TP2Ws4fwA&usqp=CAU" group-title="Lista 29", BR. | Axn SD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122584
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_4V9VTQDfgBoVWe8JKGO4_ia6tKl1Gdc40A&usqp=CAU" group-title="Lista 29", BR. | Cinemax HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122590
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-r2Z0BXAL4M23IXnZgCB5KYUYYFr-TGShqw&usqp=CAU" group-title="Lista 29", BR. | Espn Extra HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122598
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAuFL8dqu1XZdBRukPLK0YQxuaU6T_igqJw&usqp=CAU" group-title="Lista 29", BR. | Fox SPorts 2 HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122599
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAuFL8dqu1XZdBRukPLK0YQxuaU6T_igqJw&usqp=CAU" group-title="Lista 29", BR. | Fox SPorts HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122600
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDluDXwfb1_ai_YErTBBD1Wz1-n-fHj9g3dw&usqp=CAU" group-title="Lista 29", BR. | Fx HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122602
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhf-ISIGkeFPEvPOjY5mqVqXEbwMk8wcaPdQ&usqp=CAU" group-title="Lista 29", BR. | Hbo HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122606
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4kPKCianAxKUICKCvqi0BeRK3AdbdSo3waQ&usqp=CAU" group-title="Lista 29", BR. | Hbo Plus HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122607
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBXPE-QMbm7UGy0bnYq-wxpGBZkp_SNt6aHg&usqp=CAU" group-title="Lista 29", BR. | Paramount HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122614
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdFmr4AU0B2pcm5mcgHL0rEN3FqoKAPNsj9g&usqp=CAU" group-title="Lista 29", BR. | Sony Channel HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122622
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvWE9kNiyxUK9laC_Fs0AM4Tu7IX6QG3Xv5A&usqp=CAU" group-title="Lista 29", BR. | Syfy HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122624
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgTdgtcI0XIKzMrWgddZf9bq0vQnMRjbggGA&usqp=CAU" group-title="Lista 29", BR. | Tnt HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122632
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTajK-NzQCcjimut4_9LXsdc5N12yWJw_pT-Q&usqp=CAU" group-title="Lista 29", BR. | Tnt Series HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122634
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="Lista 29", BR. | Universal Channel SD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122642
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxzCZ7uwSqTsGBtQSKRD7FhScfSkDx47lucw&usqp=CAU" group-title="Lista 29", BR. | Universal HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122643
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfV23sxXSg4ZjWUf-LuT8bWKVXtVrvAKLQHg&usqp=CAU" group-title="Lista 29", BR. | BAND SPORTS HD.
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122646
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfV23sxXSg4ZjWUf-LuT8bWKVXtVrvAKLQHg&usqp=CAU" group-title="Lista 29", BR. BAND SPORTS SD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122647
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1uE16pAwy9TrT7oyRbxzBkBU7DW9l9RY4ig&usqp=CAU" group-title="Lista 29", BR. SPORTV HD BR
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122648
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1uE16pAwy9TrT7oyRbxzBkBU7DW9l9RY4ig&usqp=CAU" group-title="Lista 29", BR. SPORTV SD BR
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122649
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1uE16pAwy9TrT7oyRbxzBkBU7DW9l9RY4ig&usqp=CAU" group-title="Lista 29", BR. SPORTV 2 HD BR
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122650
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1uE16pAwy9TrT7oyRbxzBkBU7DW9l9RY4ig&usqp=CAU" group-title="Lista 29", BR. SPORTV 2 SD BR
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122651
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1uE16pAwy9TrT7oyRbxzBkBU7DW9l9RY4ig&usqp=CAU" group-title="Lista 29", BR. SPORTV 3 HD BR
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122652
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1uE16pAwy9TrT7oyRbxzBkBU7DW9l9RY4ig&usqp=CAU" group-title="Lista 29", BR. SPORTV 3 SD BR
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122653
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDYxP-Nj11dkiUsrImtC1jgCMr35uZVXrU4w&usqp=CAU" group-title="Lista 29", BR. COMBATE HD BR
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122654
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDYxP-Nj11dkiUsrImtC1jgCMr35uZVXrU4w&usqp=CAU" group-title="Lista 29", BR. COMBATE HD BR
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122655
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_VNy7jW6U5f3-5Utwgq0D5H2w8kkMk64gw&usqp=CAU" group-title="Lista 29", BR. PREMIERE CLUBES HD BR
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122656
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_VNy7jW6U5f3-5Utwgq0D5H2w8kkMk64gw&usqp=CAU" group-title="Lista 29", BR. PREMIERE CLUBES SD BR
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122657
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhg3iEqfhVnWUdd61uIaBj9StrgkDexlQHJQ&usqp=CAU" group-title="Lista 29", BR. PREMIERE 1 HD BR
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122658
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJjD2ETNRfEhBGO1stvvwwh7bczGHC7MlT6w&usqp=CAU" group-title="Lista 29", BR. HBO FAMILY HD BR
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122725
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhf-ISIGkeFPEvPOjY5mqVqXEbwMk8wcaPdQ&usqp=CAU" group-title="Lista 29", BR. HBO 2 HD BR
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122726
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcy9c_PN7fR7Zc5CA5ClkN6n_7Cf2vBX-2uQ&usqp=CAU" group-title="Lista 29", BR. HBO SIGNATURE HD BR
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122727
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQaDg_fWOdOZgsS_yk-AHojlcGNCLM5oaNuA&usqp=CAU" group-title="Lista 29", BR.| STAR PREMIUM 1 HD BR
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122728
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQaDg_fWOdOZgsS_yk-AHojlcGNCLM5oaNuA&usqp=CAU" group-title="Lista 29", BR.| STAR PREMIUM 2 HD BR
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122729
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhNQ-fYN8cRSS6qrCdWcsBzdP5fNZXnQ24Sg&usqp=CAU" group-title="Lista 29", BR.| STAR HD BR
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122730
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUohMtK-kJBqczKHNrpt9PISuzjDNheEgJAA&usqp=CAU" group-title="Lista 29", BR. WARNEL CHANEL TV HD BR
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122737
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjV-u5jw-GdHMR9tjbDC9wxDWINx3jLXRUQ&usqp=CAU" group-title="Lista 29", BR. A&E HD BR
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122738
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh73dpJsbJBc6FxpDuEWdkN4v0-r9fMjW64g&usqp=CAU" group-title="Lista 29", BR. FOX LIFE HD BR
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122739
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDCuKn9nU2cHi-BTt9EfMrU1k-44kE5eB0Bw&usqp=CAU" group-title="Lista 29", BR. SONY HD BR
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/122740
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9WDqbNOpmk6vTkJJLdJrR_1f6i4Hkw9x6xQ&usqp=CAU" group-title="Lista 29", Solidaria TV (ES)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/123452
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRliASp4nTCxzcd0WNrtYwUf5yn1_2_BpqeRg&usqp=CAU" group-title="Lista 29", Sophia TV (DE)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/123455
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-lxH4Tx6Rag7c7mIvdK0y21QX-5vWjorDgQ&usqp=CAU" group-title="Lista 29", M-MUSICTOP
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/123989
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtwvt-ohdfts9_DlC_PAUP66IyNMgTIxgJAw&usqp=CAU" group-title="Lista 29", M-CANAL51
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/123990
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh1O243-IJ5W9ka4qSoh-NN7gYTCLP7BMBlQ&usqp=CAU" group-title="Lista 29", M-PORTALMIX
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/123992
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnhLWl5_y6ICfxb5uAQrCGIkQ-YJ5oMasJ3A&usqp=CAU" group-title="Lista 29", M-CONTACT TV
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/123994
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcn-J0yOEGVGcEBLpZ1_8Jj9A7WSOZCo7rKw&usqp=CAU" group-title="Lista 29", M-CARIBE TV
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/123997
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN2ILITHmSBmYHd0kQiqUHtZ3Gl0k5GOScQw&usqp=CAU" group-title="Lista 29", M-RANCHERITA
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/123998
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScJLZC0SmuWdllbpDalbzvJXFF8jtU6StFOA&usqp=CAU" group-title="Lista 29", M-LATINA 94.5
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/123999
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy8P3XMw05gwqpp4F9rpNIyamOYvGLe8gk2w&usqp=CAU" group-title="Lista 29", XXX | RUSSKAYA (K)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/131835
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy8P3XMw05gwqpp4F9rpNIyamOYvGLe8gk2w&usqp=CAU" group-title="Lista 29", XXX | Big Ass(Q)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/131842
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy8P3XMw05gwqpp4F9rpNIyamOYvGLe8gk2w&usqp=CAU" group-title="Lista 29", XXX | Interracial HD(Q)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/131847
+
+#EXTINF:-1 tvg-logo="http://home-playtv.com:25461/images/f0c281c8b136b6e1bb1bc36c0613e65b.png" group-title="Lista 29", XXX | RedTraffic Interracial(Q)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/131873
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy8P3XMw05gwqpp4F9rpNIyamOYvGLe8gk2w&usqp=CAU" group-title="Lista 29", XXX | Anal(Q)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/131876
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy8P3XMw05gwqpp4F9rpNIyamOYvGLe8gk2w&usqp=CAU" group-title="Lista 29", XXX | Threesome(Q)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/131890
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuGzgvHD-ESQbfR0edh7p6DB2jT6t7VGKW2g&usqp=CAU" group-title="Lista 29", XXX | POV(Q)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/131892
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwBvBSxSqytonxxBaA-JGdxvBG9i6fkphD1g&usqp=CAU" group-title="Lista 29", XXX | MILF(Q)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/131893
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdUIydNQo6FS4Fjk6rOMqijv2dJsEJLLtdtQ&usqp=CAU" group-title="Lista 29", XXX | Miami Tv México(Q)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/131894
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStT3RlJGU5AuPh6qGvs31hunlQSha5YwQ5dQ&usqp=CAU" group-title="Lista 29", XXX | Latina (Q)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/131895
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStT3RlJGU5AuPh6qGvs31hunlQSha5YwQ5dQ&usqp=CAU" group-title="Lista 29", XXX | Hard Core(Q)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/131900
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTee1J3y2GboKsf02Sp8a0avfJwmT65_MMXw&usqp=CAU" group-title="Lista 29", Adult mix 2(C)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/131921
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREN3s2MelRJTQF6_0Z3wb-pARuLB-5dQ0Sgw&usqp=CAU" group-title="Lista 29", BR | telecine action hd
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/132355
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREN3s2MelRJTQF6_0Z3wb-pARuLB-5dQ0Sgw&usqp=CAU" group-title="Lista 29", BR: Telecine Action SD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/132946
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlqD2YOQKttJbQ9DtDe1iiloL4Lezxl4wPyw&usqp=CAU" group-title="Lista 29", BR: Telecine Cult HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/132948
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlqD2YOQKttJbQ9DtDe1iiloL4Lezxl4wPyw&usqp=CAU" group-title="Lista 29", BR: Telecine Cult SD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/132949
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSREJMs_WhRI2ejfvBmYfeq94l6GstEuRxpIQ&usqp=CAU" group-title="Lista 29", BR: Telecine Fun HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/132951
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSREJMs_WhRI2ejfvBmYfeq94l6GstEuRxpIQ&usqp=CAU" group-title="Lista 29", BR: Telecine Fun SD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/132952
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2P2iy82Eu7J49rzIePRfRN4itnEoOZOf7sg&usqp=CAU" group-title="Lista 29", BR: Telecine Pipoca HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/132954
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2P2iy82Eu7J49rzIePRfRN4itnEoOZOf7sg&usqp=CAU" group-title="Lista 29", BR: Telecine Pipoca HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/132955
+
+#EXTINF:-1 tvg-logo="data:image/png;base64 group-title=" group-title="Lista 29", BR: Telecine touch HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/132958
+
+#EXTINF:-1 tvg-logo="data:image/png;base64 group-title=" group-title="Lista 29", BR: Telecine touch SD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/132959
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmQKfApbmI6ic9pBSt7OAp8gRBvU0ZlqnL_A&usqp=CAU" group-title="Lista 29", ANIMAL PLANET HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/132976
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg7eC34t2RRjZbNoidD591q-DTAGAllqM_0Q&usqp=CAU" group-title="Lista 29", DISCOVERY CHANNEL HD°
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/132977
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg7eC34t2RRjZbNoidD591q-DTAGAllqM_0Q&usqp=CAU" group-title="Lista 29", DISCOVERY CHANNEL HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/132978
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv9DqCfucH0G5O6uu_ifN8EdDaS4VfAvRf3A&usqp=CAU" group-title="Lista 29", DISCOVERY HOME & HEALTH HD°
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/132979
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOrCfslt995sJi9E8hByjE3hedCfJB1n97mA&usqp=CAU" group-title="Lista 29", DISCOVERY SCIENCE HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/132981
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbgIur18R2rGamuf6OHqxbFsaBwn1rRjEL1w&usqp=CAU" group-title="Lista 29", DISCOVERY THEATER HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/132982
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPp8QVqfKAhlMglf0qxf9CaCVvrkYiXw8M9A&usqp=CAU" group-title="Lista 29", DISCOVERY TLC HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/132983
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHCiUr_ZLC3YnqYrnhtCKUsKSd8BzVACSguQ&usqp=CAU" group-title="Lista 29", DISCOVERY TURBO HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/132984
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpxeIzdBFjc3HOVBwViRuOKVivrxn72sr6vw&usqp=CAU" group-title="Lista 29", FISH TV HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/132986
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEuAZXBS6wbKmdNamwqRNuXm5tDNTSpvGaIA&usqp=CAU" group-title="Lista 29", HGTV HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/132988
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngGu0h3aZo9Hx8hNpmarmliEnhYTZWNzlQ5mC7CuA=s900-c-k-c0x00ffffff-no-rj" group-title="Lista 29", HISTORY CHANNEL HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/132989
+
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64 group-title=" group-title="Lista 29", ID - INVESTIGAÇÃO DISCOVERY HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/132990
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR28dwHokNHsdJ6uGKXajZLFW4lIP9M20Uk4w&usqp=CAU" group-title="Lista 29", NAT GEO WILD HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/132991
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvDFEiiSigbtRyG38JY6a8WB6_lLeZelCEAQ&usqp=CAU" group-title="Lista 29", NATIONAL GEOGRAPHIC HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/132992
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm3KJE3B0kK0MdMHViC9FufEoM0AuwImpqfQ&usqp=CAU" group-title="Lista 29", BOOMERANG HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/132997
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV0E1LRMSR1Bn5Xluxbi7CF2o-A5GloOtBLg&usqp=CAU" group-title="Lista 29", DISCOVERY KIDS HD°
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/132998
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV0E1LRMSR1Bn5Xluxbi7CF2o-A5GloOtBLg&usqp=CAU" group-title="Lista 29", DISCOVERY KIDS HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/132999
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK0sdE_xj8Oac9qmydQ4FrT7Z4M-SGieyI6g&usqp=CAU" group-title="Lista 29", DISNEY CHANNEL HD°
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133000
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK0sdE_xj8Oac9qmydQ4FrT7Z4M-SGieyI6g&usqp=CAU" group-title="Lista 29", DISNEY CHANNEL HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133001
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy06aKH9OIcRQ3MxfV9jh6UUEffl3zyD-CuA&usqp=CAU" group-title="Lista 29", DISNEY JR HD°
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133002
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy06aKH9OIcRQ3MxfV9jh6UUEffl3zyD-CuA&usqp=CAU" group-title="Lista 29", DISNEY JR HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133003
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS66eUpmLoUDme5MeSfmbhvafDcEvQDBwcA9Q&usqp=CAU" group-title="Lista 29", DISNEY XD HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133004
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBLgx951xLBjHR2p-7qAcFLyldemhDEO-sWA&usqp=CAU" group-title="Lista 29", GLOOB HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133005
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmeZtOTxi7hRoJwHcFIQnP6n_ZQVDLaxOACQ&usqp=CAU" group-title="Lista 29", NATGEO KIDS HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133006
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2JJVk4mKOBAfgs-OBga58JSgQJdHJkQbAg&usqp=CAU" group-title="Lista 29", NICK JR HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133007
+
+#EXTINF:-1 tvg-logo="https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/webplex/site/nick/intl/nickelodeon-600x600.png" group-title="Lista 29", NICKELODEON HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133008
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG7jVaimJBgfRV_1Fbea6XFXbXlCzJJ1uPVw&usqp=CAU" group-title="Lista 29", TOONCAST HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133009
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStjTLqMe3KjAmIrQmpqvbZ6HQhBfLhIFdDOA&usqp=CAU" group-title="Lista 29", ZOOMOO HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133011
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsaFC2FOqngCXBhSOh3eINjbRbWK5qcf4aWQ&usqp=CAU" group-title="Lista 29", BIS HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133015
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQxzq4sZWqWJ1k5AerpP96YPUb_k6ok5E6Kg&usqp=CAU" group-title="Lista 29", COMEDY CENTRAL HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133016
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6_5hNbJ6gQYUsOvmkOXv7XA2YK1Duo0g73Q&usqp=CAU" group-title="Lista 29", CURTA! HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133017
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZZw_iuUJ3-58wzKBBN0FChabEvyV99pADnA&usqp=CAU" group-title="Lista 29", E! HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133018
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Lista 29", FOOD NETWORK HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133019
+
+#EXTINF:-1 tvg-logo="https://balconplus.es/wp-content/uploads/2021/04/Programas-de-decoracion-GNT-con-increibles-consejos.png" group-title="Lista 29", GNT HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133020
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfsm_g5eDyFDAVqALI6JNV2_zSNypEdgMDKw&usqp=CAU" group-title="Lista 29", LIFETIME HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133021
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS13FYN1RVNARmCFQTPQ24nXqZ__MfahKXNjw&usqp=CAU" group-title="Lista 29", MAIS NA TELA - GLOBOSAT HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133023
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0qPLZbbOHHUKl3NZAttwmH5b98jKnrtawZg&usqp=CAU" group-title="Lista 29", MULTISHOW HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133026
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUivB5uN-WPbpRti2ngdl3moRmglfbfgozdQ&usqp=CAU" group-title="Lista 29", OFF HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133027
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQxzq4sZWqWJ1k5AerpP96YPUb_k6ok5E6Kg&usqp=CAU" group-title="Lista 29", COMEDY CENTRAL HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133028
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6_5hNbJ6gQYUsOvmkOXv7XA2YK1Duo0g73Q&usqp=CAU" group-title="Lista 29", CURTA! HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133029
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZZw_iuUJ3-58wzKBBN0FChabEvyV99pADnA&usqp=CAU" group-title="Lista 29", E! HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133030
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="Lista 29", FOOD NETWORK HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133031
+
+#EXTINF:-1 tvg-logo="https://balconplus.es/wp-content/uploads/2021/04/Programas-de-decoracion-GNT-con-increibles-consejos.png" group-title="Lista 29", GNT HD¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133032
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3qIMjCPut-1TNb2QyiwANHNCz-NotdEY2GA&usqp=CAU" group-title="Lista 29", 24/7 ALF (L)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133272
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZK1xxEN3AWeO76da5XhPUvTSXXLYpU--u1A&usqp=CAU" group-title="Lista 29", 24/7 FUTURAMA(L)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133276
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEQ0vvV5IPkcdGllQequaKN3-OB2eHf4Bqbg&usqp=CAU" group-title="Lista 29", 24/7 El Principel del Rap (B)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133280
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnb6gp_imNW3C6xFD9EbwFRr7clhAsoZkOzA&usqp=CAU" group-title="Lista 29", 24/7 Los Simpsons Temporada 2 (L)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133282
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnb6gp_imNW3C6xFD9EbwFRr7clhAsoZkOzA&usqp=CAU" group-title="Lista 29", 24/7 Los Simpsons Temporada 1 (L)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133283
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnb6gp_imNW3C6xFD9EbwFRr7clhAsoZkOzA&usqp=CAU" group-title="Lista 29", 24/7 Los Simpsons Temp 0 (L)
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133284
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ53-Sj-QYOzbp_B6UmZg9Uq_3r4NJHjVhKzw&usqp=CAU" group-title="Lista 29", 24/7:  The Walking Dead ►¹
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/133300
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/1186f39f3c2ff7dcf5600c76cddb6a47.png" group-title="Lista 29", LA 1
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150198
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/3ba75c2866d95a56aedf072787874dc8.png" group-title="Lista 29", ANTENA 3
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150202
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/3ba75c2866d95a56aedf072787874dc8.png" group-title="Lista 29", ANTENA 3 HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150203
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/3ba75c2866d95a56aedf072787874dc8.png" group-title="Lista 29", ANTENA 3 FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150204
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/10cffa3578c870bf70fb51f8514d23a0.png" group-title="Lista 29", CUATRO
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150205
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/2d2024ab719bece688ccd21240e45e2f.png" group-title="Lista 29", TELECINCO HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150209
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/2d2024ab719bece688ccd21240e45e2f.png" group-title="Lista 29", TELECINCO FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150210
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/966ee4301686bd3293f32284a44274d5.png" group-title="Lista 29", LA SEXTA
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150211
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/1da86a3b0633a780658b1bcc5eb5e7e9.png" group-title="Lista 29", INTERCONOMIA
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150214
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/1bfafbc77238b016cdf978c90880326e.png" group-title="Lista 29", TV GALICIA
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150215
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/4537c4c56bb8e797a44a10ad23a866e2.png" group-title="Lista 29", A3SERIES FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150217
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/0e7aff368f4bf856b14630d4e13545d9.png" group-title="Lista 29", PARAMOUNT CHANNEL FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150218
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/6688ae08d71acde51bd63b7320aba94c.png" group-title="Lista 29", NEOX
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150219
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/6688ae08d71acde51bd63b7320aba94c.png" group-title="Lista 29", NEOX FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150220
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/5205e53e92b6420b9721e2de793d990c.jpg" group-title="Lista 29", NOVA
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150221
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/5205e53e92b6420b9721e2de793d990c.jpg" group-title="Lista 29", NOVA FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150222
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/633/551/png-transparent-be-mad-tv-logo-telecinco-angry-cow-logo-television-blue-angle-thumbnail.png" group-title="Lista 29", BEMAD TV
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150223
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/633/551/png-transparent-be-mad-tv-logo-telecinco-angry-cow-logo-television-blue-angle-thumbnail.png" group-title="Lista 29", BEMAD TV HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150224
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/633/551/png-transparent-be-mad-tv-logo-telecinco-angry-cow-logo-television-blue-angle-thumbnail.png" group-title="Lista 29", BEMAD TV FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150225
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/d4faa708735bad60438d674c8d48ed67.png" group-title="Lista 29", MEGA
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150226
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/d4faa708735bad60438d674c8d48ed67.png" group-title="Lista 29", MEGA HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150227
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/d4faa708735bad60438d674c8d48ed67.png" group-title="Lista 29", MEGA FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150228
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/196e5b29b1cdd595717c36b7558d144d.png" group-title="Lista 29", ENERGY
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150230
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/afccc3195fe20727961833a33a594537.png" group-title="Lista 29", DKISS
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150231
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/24d1176ddefe601b948c68e67f347a71.png" group-title="Lista 29", DIVINITY
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150232
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/6d26dd785a4cf1b001ebbca03f0d92e0.png" group-title="Lista 29", TEN
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150235
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/203e99cb097a9bc4da61343e0096d535.png" group-title="Lista 29", 24H
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150237
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/4c48fb72f170932fd8af5bfe07b4a1de.jpg" group-title="Lista 29", FDF
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150239
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/67940993cb73c0e92cc8558dc78c4d22.png" group-title="Lista 29", #0
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150241
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/67940993cb73c0e92cc8558dc78c4d22.png" group-title="Lista 29", # HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150242
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/67940993cb73c0e92cc8558dc78c4d22.png" group-title="Lista 29", #0 FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150243
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/dd94a3624f8f41e7a9ef3ee1abec6ea2.png" group-title="Lista 29", MOVISTAR  ESTRENOS
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150245
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/dd94a3624f8f41e7a9ef3ee1abec6ea2.png" group-title="Lista 29", MOVISTAR  ESTRENOS FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150247
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/f6aba6fff30a9d28c83ea33605a7451c.png" group-title="Lista 29", MOVISTAR  ACCION
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150248
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/f6aba6fff30a9d28c83ea33605a7451c.png" group-title="Lista 29", MOVISTAR  ACCION FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150250
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/bb8f34562e38dd39fddc3f8900b76350.png" group-title="Lista 29", DISNEY CHANNEL FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150251
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/17ad467ec489133da03c6b3cb03f5d07.jpg" group-title="Lista 29", MOVISTAR  COMEDIA
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150252
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/17ad467ec489133da03c6b3cb03f5d07.jpg" group-title="Lista 29", MOVISTAR  COMEDIA FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150254
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/17ad467ec489133da03c6b3cb03f5d07.jpg" group-title="Lista 29", COMEDY CENTRAL
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150255
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/17ad467ec489133da03c6b3cb03f5d07.jpg" group-title="Lista 29", COMEDY CENTRAL HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150256
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/17ad467ec489133da03c6b3cb03f5d07.jpg" group-title="Lista 29", COMEDY CENTRAL FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150257
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", MOVISTAR  CINE ESPAÑOL
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150258
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/e2b44c8908559da092950702153566ee.png" group-title="Lista 29", MOVISTAR DISNEY +
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150260
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/4db99c9b9554362b3960f44523b6980c.png" group-title="Lista 29", DISNEY + HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150262
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1h1E_fb__1ABaDNgQwQGcDmYnxFjD4ijDX7MgEBJcwDc87tOR&s" group-title="Lista 29", MOVISTAR CINEDOC&ROLL HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150264
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1h1E_fb__1ABaDNgQwQGcDmYnxFjD4ijDX7MgEBJcwDc87tOR&s" group-title="Lista 29", MOVISTAR CINEDOC&ROLL FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150265
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/14c774786a0da8b3859c42408f63ab83.png" group-title="Lista 29", MOVISTAR DRAMA
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150266
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/fcd004e6313779d4b52dd4abe04a547a.png" group-title="Lista 29", COSMO
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150269
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/fcd004e6313779d4b52dd4abe04a547a.png" group-title="Lista 29", COSMO FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150271
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/61d7e5ff7c5d6f56f35e606148c25412.png" group-title="Lista 29", SYFY
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150272
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/61d7e5ff7c5d6f56f35e606148c25412.png" group-title="Lista 29", SYFY FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150274
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/343e877633675f15afd1fc828ab924a2.png" group-title="Lista 29", AMC
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150275
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/343e877633675f15afd1fc828ab924a2.png" group-title="Lista 29", AMC FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150276
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/72cfe309b6dfa108340602205caca04d.png" group-title="Lista 29", DARK
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150277
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/44c68d5df74f953e5809606bc542a90a.png" group-title="Lista 29", SOMOS
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150278
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/dbc2f59fb7c914df09eb59865b083c4b.png" group-title="Lista 29", XTRM FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150281
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/2a337c96b389f45830cd9609bbfc08b9.png" group-title="Lista 29", SUNDANCE TV
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150282
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/2a337c96b389f45830cd9609bbfc08b9.png" group-title="Lista 29", SUNDANCE HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150283
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/2a337c96b389f45830cd9609bbfc08b9.png" group-title="Lista 29", SUNDANCE FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150284
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/81c328dea227539f4a6331a2b82fea7e.png" group-title="Lista 29", MOVISTAR  SERIESMANIA
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150301
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/81c328dea227539f4a6331a2b82fea7e.png" group-title="Lista 29", MOVISTAR  SERIESMANIA FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150303
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/bda00adee03c0c6489caa59ee9851f88.png" group-title="Lista 29", MOVISTAR  SERIES
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150304
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/bda00adee03c0c6489caa59ee9851f88.png" group-title="Lista 29", MOVISTAR  SERIES FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150306
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/5d340d069ce4995b89a26961d3aaf7b1.png" group-title="Lista 29", AXN White
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150307
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/afeda469188fbc964d949faa482b7b57.png" group-title="Lista 29", AXN
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150310
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/afeda469188fbc964d949faa482b7b57.png" group-title="Lista 29", AXN FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150312
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/b5123753fe21aff98899587abbf74196.jpg" group-title="Lista 29", CALLE 13
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150313
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/2bfef0530e86875773ac557931601714.png" group-title="Lista 29", TNT FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150318
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/481ee88402266fde60880abc1b4f7a48.png" group-title="Lista 29", TCM HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150320
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/2b5421b3faae42999e766cb0736de3a3.jpg" group-title="Lista 29", FOX
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150322
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/2b5421b3faae42999e766cb0736de3a3.jpg" group-title="Lista 29", FOX FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150324
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/bb2f388292484bb662f19905d18dccc3.png" group-title="Lista 29", FOX LIFE
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150325
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/bb2f388292484bb662f19905d18dccc3.png" group-title="Lista 29", FOX Life FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150327
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/4709ead2b0079d2d9ae797c94baf3e2a.png" group-title="Lista 29", HOLLYWOOD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150328
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/4709ead2b0079d2d9ae797c94baf3e2a.png" group-title="Lista 29", HOLLYWOOD HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150329
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/4709ead2b0079d2d9ae797c94baf3e2a.png" group-title="Lista 29", HOLLYWOOD FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150330
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/830ccfcf4681ad5018bee8324d8ff83d.png" group-title="Lista 29", MOVISTAR  VAMOS FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150334
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/6c32fa368835a1448e47defee4b05867.png" group-title="Lista 29", MOVISTAR DEPORTES
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150335
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/6c32fa368835a1448e47defee4b05867.png" group-title="Lista 29", MOVISTAR DEPORTES HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150336
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/6c32fa368835a1448e47defee4b05867.png" group-title="Lista 29", MOVISTAR DEPORTES FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150337
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/898c31c2c6c5405d3b99db2d00a776da.png" group-title="Lista 29", MOVISTAR DEPORTES 1 FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150339
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/898c31c2c6c5405d3b99db2d00a776da.png" group-title="Lista 29", MOVISTAR DEPORTES 1
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150340
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/898c31c2c6c5405d3b99db2d00a776da.png" group-title="Lista 29", MOVISTAR DEPORTES 2
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150341
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/113/118/png-transparent-eurosport-2-logo-television-eurosport-1-sport1-television-blue-text.png" group-title="Lista 29", EUROSPORT
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150345
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/09c6005b68f6d948d866c9fda4a4ae70.jpg" group-title="Lista 29", EUROSPORT 2
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150348
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/09c6005b68f6d948d866c9fda4a4ae70.jpg" group-title="Lista 29", EUROSPORT 2 FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150349
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/13405a028fa6e22e4efc068bbb3016f5.png" group-title="Lista 29", MOVISTAR  LA LIGA
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150354
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", MOVISTAR LALIGA HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150355
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/13405a028fa6e22e4efc068bbb3016f5.png" group-title="Lista 29", MOVISTAR  LA LIGA FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150356
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/13405a028fa6e22e4efc068bbb3016f5.png" group-title="Lista 29", MOVISTAR  LA LIGA FHD OPCION B
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150357
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/13405a028fa6e22e4efc068bbb3016f5.png" group-title="Lista 29", MOVISTAR LA LIGA 2K
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150358
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/a38c81e5ee5c30fc6beecd53018dc71f.png" group-title="Lista 29", MOVISTAR  LA LIGA 1 FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150360
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/de1cfd334d52a0f07bf9ce446bdccc4a.png" group-title="Lista 29", MOVISTAR  LA LIGA 2 FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150361
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/a3fd5c1054728a6063828d41719df89e.png" group-title="Lista 29", MOVISTAR  LA LIGA 3
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150362
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/8a188ac2f2f0145142300838261d3584.png" group-title="Lista 29", MOVISTAR  LA LIGA 4
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150363
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/7e9dab50e6fba180ad93b9ed27155082.png" group-title="Lista 29", MOVISTAR  LA LIGA 5
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150364
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", MOVISTAR LIGA CAMPEONES
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150366
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", MOVISTAR LIGA CAMPEONES FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150368
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", MOVISTAR LIGA CAMPEONES FHD OPCION B
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150369
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", MOVISTAR LIGA DE CAMPEONES 1 SD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150371
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", MOVISTAR LIGA DE CAMPEONES 1 FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150373
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", MOVISTAR LIGA DE CAMPEONES 2 SD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150374
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", MOVISTAR LIGA DE CAMPEONES 2 FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150375
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", LIGA TV BAR HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150383
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", LIGATV BAR FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150384
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", GOL TV
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150385
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", GOL TV HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150386
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", GOL TV FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150387
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", TELEDEPORTES
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150388
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", BARCA TV
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150390
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", REAL MADRID TV
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150392
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", MOVISTAR  F1
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150393
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", MOVISTAR F1 HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150394
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", MOVISTAR F1 FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150395
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", MOVISTAR  GOLF
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150397
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", MOVISTAR  GOLF FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150399
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", DAZN MOVISTAR 1
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150400
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", DAZN MOVISTAR 2
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150402
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", CANAL COCINA
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150411
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", CANAL COCINA FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150413
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", CANAL DECASA
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150415
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", CANAL DECASA FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150417
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", HISTORIA
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150419
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", HISTORIA FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150421
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", NATIONAL GEOGRAPHIC
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150422
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", NATIONAL GEOGRAPHIC FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150424
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", NATIONAL GEOGRAPHIC WILD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150425
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", NATIONAL GEOGRAPHIC WILD FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150427
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", VIAJAR
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150428
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", VIAJAR FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150430
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", DISCOVERY CHANNEL
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150431
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", DISCOVERY CHANNEL FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150433
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", DMAX
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150434
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", BLAZE
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150439
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", BLAZE FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150441
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", TOROS TV
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150444
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", TOROS TV FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150446
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", CAZA Y PESCA FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150449
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", IBERALIA TV
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150450
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", CAZAVISION
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150451
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", CAZAVISION FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150452
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", NICKELODEON HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150455
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", CLAN FHD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150456
+
+#EXTINF:-1 tvg-logo="http://latiniptv.vip:8008/images/bb8f34562e38dd39fddc3f8900b76350.png" group-title="Lista 29", DISNEY CHANNEL
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150457
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", NICK JUNIOR
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150460
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", CLAN TVE
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150461
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", CANAL PANDA
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150462
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Lista 29", CANAL ORBE 21
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150465
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dB5P5Ng.png" group-title="Lista 29", AMERICA SD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150479
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dB5P5Ng.png" group-title="Lista 29", AMERICA HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150480
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dB5P5Ng.png" group-title="Lista 29", AMERICA SD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150486
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dB5P5Ng.png" group-title="Lista 29", AMERICA HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150487
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AfYTIP1.png" group-title="Lista 29", Cronica TV
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150489
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5ad1O7F.png" group-title="Lista 29", C5N HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150490
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bPupjj9.png" group-title="Lista 29", EL NUEVE SD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150491
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bPupjj9.png" group-title="Lista 29", EL NUEVE HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150492
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kCac94U.png" group-title="Lista 29", EL TRECE HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150493
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SJTS7I2.png" group-title="Lista 29", GARAGE TV SD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150494
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTJCQ1e.png" group-title="Lista 29", PAKA PAKA
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150496
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wzy8pjD.png" group-title="Lista 29", TELEFE HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150498
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cRSNnUy.png" group-title="Lista 29", TN SD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150501
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cRSNnUy.png" group-title="Lista 29", TN HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150502
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nRpJkmG/images.png" group-title="Lista 29", TV Publica SD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150503
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nRpJkmG/images.png" group-title="Lista 29", TV Publica HD
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150504
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MsmL1HK/images.png" group-title="Lista 29", VOLVER
+http://latiniptv.vip:8080/VICTORCHILE12MESES/OSVALDOPRO0902/150505
+
+
 
 #EXTM3U
-#EXTINF:0 type="video" channelId="-1" name="50 Star Trek" group="Pluto TV Latin", 50 Star Trek
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ec5761aabe4690007f6e047/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=9f22c9b7-8600-415d-9b9a-fb6dd0e54d4b&userId=&serverSideAds=true
 #EXTINF:0 type="video" channelId="-1" name="52 Cine Estelar" group="Pluto TV Latin", 52 Cine Estelar
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=f2c03fa6-1afa-4ede-bf97-406268e3a7d1&userId=&serverSideAds=true
 #EXTINF:0 type="video" channelId="-1" name="56 Cine Action" group="Pluto TV Latin", 56 Cine Action
@@ -52,21 +1178,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009
 
 #EXTINF:-1 ,Ranchenato
 http://66.240.236.25:1936/ranchenato/ranchenato_360p/playlist.m3u8
-
-#EXTINF:-1 ,TV Agro
-http://179.1.7.198:1935/live/TVAgroHD.stream_360p/playlist.m3u8
-
-#EXTINF:-1 ,WinSport
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_2.m3u8
-
-#EXTINF:-1 ,Teleantioquia
-https://hdvideo2.cdn.net.co/live01/ta.m3u8
-
-#EXTINF:-1 ,Telecaribe
-https://tkx.apis.anvato.net/rest/v2/mcp/video/adstB64MXYxqLZwy?anvack=4gXmVVoVIp3YeECJWm6af3j0mlHwl6vO&eud=SKjoH1L%2F9Enwo5zQBiBTRfTSNGfENMNO6udm4CQNVvix%2FL9XX8kucBOvzWalIghNrL5GllGH8ou17ICYGv29Rg%3D%3D
-
-#EXTINF:-1 ,Teleislas
-https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8
 
 #EXTINF:-1 ,Cali TV
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
@@ -115,10 +1226,6 @@ http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 ,Telemax
 #EXTGRP: colombia
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
-
-#EXTINF:-1 ,Cachipum tv
-#EXTGRP: colombia
-http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8
 
 #EXTINF:-1 ,PERU:Central TV
 #EXTGRP:colombia
@@ -209,12 +1316,6 @@ http://190.11.224.14:8134/liveevent.m3u8
 http://xtremesportsplus.myq-see.com:8080/peppe/peppe/58
 
 
-
-
-
-
-
-
 #EXTINF:-1 ,EXTREMA TV
 #EXTGRP:colombia
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -254,19 +1355,6 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 #EXTINF:-1 ,Canal Once
 #EXTGRP: "colombia"
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 ,CANAL 4 
@@ -499,14 +1587,6 @@ http://coninfo.net:1935/13maxhd/live_720p/.m3u8
 #EXTGRP:colombia
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:amordiscos_all/playlist.m3u8
 
-
-
-
-
-
-
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Ej7XI32XgAAjZvy.jpg" group-title="LOCALES", IP - 24.5
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
