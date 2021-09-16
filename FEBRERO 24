@@ -1286,6 +1286,18 @@ https://node-11.zeno.fm/km1gvmm5qzzuv?rj-ttl=5&rj-tok=AAABe-8vzlwACZ0Q-qAxzC3lkA
 #EXTGRP:colombia "EMISORAS"
 http://node-05.zeno.fm/pg9nkkxetv8uv?rj-ttl=5&rj-tok=AAABe-8tRAoAWLtqo_QAt_az9g
 
+#EXTINF:-1 ,Melodia Stereo
+#EXTGRP:colombia "EMISORAS"
+https://i90.letio.com/7000.aac
+
+#EXTINF:-1 ,Radio Lider ( venezuela)
+#EXTGRP:colombia "EMISORAS"
+https://node-20.zeno.fm/0bbtax2mva0uv?rj-ttl=5&rj-tok=AAABe-9PEtEAHv9NSk0VdiOQ1g
+
+#EXTINF:-1 ,Ecos Del Torbes ( venezuela)
+#EXTGRP:colombia "EMISORAS"
+http://ur58.lorini.net:50006/ECOSDELTORBE
+
 #EXTINF:-1 ,Colombia Bohemia
 #EXTGRP:colombia "EMISORAS"
 http://emisoras.colombiacrossover.com:8024/stream
