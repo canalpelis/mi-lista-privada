@@ -1358,9 +1358,9 @@ http://radiohd.streaminghd.co:8217/live
 #EXTGRP:colombia "EMISORAS"
 http://www.virtualtronics.net:8207/;?1501846878278.mp3
 
-#EXTINF:-1 ,NOSTALGIA RADIO
+#EXTINF:-1 ,Fiesta Stereo
 #EXTGRP:colombia "EMISORAS"
-https://emisorasvirtuales.com.co:9003/live
+https://node-20.zeno.fm/exccakv632quv?rj-ttl=5&rj-tok=AAABe-87b1EAWQR6-e8is5CUWg
 
 #EXTINF:-1 ,RADIO MUSICA INSTRUMENTAL CRISTIANA
 #EXTGRP:colombia "EMISORAS"
@@ -1385,6 +1385,10 @@ http://62.210.141.243:8057/stream/1/
 #EXTINF:-1 ,RCN RADIO
 #EXTGRP:colombia "EMISORAS"
 https://21933.live.streamtheworld.com/RCN_RADIO_FM_SC
+
+#EXTINF:-1 ,Besame Cali
+#EXTGRP:colombia "EMISORAS"
+https://19793.live.streamtheworld.com/BESAME_CALIAAC_SC
 
 #EXTINF:-1 ,W RADIO
 #EXTGRP:colombia "EMISORAS"
