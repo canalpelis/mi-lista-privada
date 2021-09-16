@@ -1266,9 +1266,29 @@ https://ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ%20Panduro%
 #EXTGRP:colombia "EMISORAS"
 https://radiohd.streaminghd.co:7390/stream
 
+#EXTINF:-1 ,Betulia Radio
+#EXTGRP:colombia "EMISORAS"
+https://node-28.zeno.fm/hxkvs9b92mruv?rj-ttl=5&rj-tok=AAABe-81opoAAbPl5y02_ISoBQ
+
 #EXTINF:-1 ,UIS AM
 #EXTGRP:colombia "EMISORAS"
 http://emisoras.uis.edu.co:8000/mp3am
+
+#EXTINF:-1 ,Radio Tiempo (Medellin)
+#EXTGRP:colombia "EMISORAS"
+https://i90.letio.com/9144.aac
+
+#EXTINF:-1 ,Norte Stereo
+#EXTGRP:colombia "EMISORAS"
+https://node-11.zeno.fm/km1gvmm5qzzuv?rj-ttl=5&rj-tok=AAABe-8vzlwACZ0Q-qAxzC3lkA
+
+#EXTINF:-1 ,La Voz de toledo
+#EXTGRP:colombia "EMISORAS"
+http://node-05.zeno.fm/pg9nkkxetv8uv?rj-ttl=5&rj-tok=AAABe-8tRAoAWLtqo_QAt_az9g
+
+#EXTINF:-1 ,Colombia Bohemia
+#EXTGRP:colombia "EMISORAS"
+http://emisoras.colombiacrossover.com:8024/stream
 
 #EXTINF:-1 ,SOPETRAN ESTEREO
 #EXTGRP:colombia "EMISORAS"
