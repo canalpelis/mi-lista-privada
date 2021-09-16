@@ -1290,6 +1290,50 @@ http://node-05.zeno.fm/pg9nkkxetv8uv?rj-ttl=5&rj-tok=AAABe-8tRAoAWLtqo_QAt_az9g
 #EXTGRP:colombia "EMISORAS"
 https://i90.letio.com/7000.aac
 
+#EXTINF:-1 ,La FM
+#EXTGRP:colombia "EMISORAS"
+https://20833.live.streamtheworld.com/LA_FM_BUCARAMANGAAAC_SC
+
+#EXTINF:-1 ,Blu Radio
+#EXTGRP:colombia "EMISORAS"
+https://25093.live.streamtheworld.com/BLURADIO_ADP_SC
+
+#EXTINF:-1 ,RCN Radio
+#EXTGRP:colombia "EMISORAS"
+https://24963.live.streamtheworld.com/RCN_RADIO_FMAAC_SC
+
+#EXTINF:-1 ,Caracol Radio
+#EXTGRP:colombia "EMISORAS"
+https://22983.live.streamtheworld.com/CR_BUCARAMAAAC_SC?csegid=10000&dist=caracol_co-web-playperm-live_str_play&pname=TDSdk&ttag=test-caracol-07052020
+
+#EXTINF:-1 ,Los Recuerdos De Ella
+#EXTGRP:colombia "EMISORAS"
+http://sonic.dattassd.com:8046/stream.mp3
+
+#EXTINF:-1 ,Colombianos Stereo
+#EXTGRP:colombia "EMISORAS"
+https://node-14.zeno.fm/0r0vpcad4s5tv?rj-ttl=5&rj-tok=AAABe-9oifgAZ54Kb_IK1KNvjQ
+
+#EXTINF:-1 ,Buenisima Stereo
+#EXTGRP:colombia "EMISORAS"
+https://centova.hostingelectrica.net/proxy/buenisim?mp=%2Fstream
+
+#EXTINF:-1 ,Retro Discoteca
+#EXTGRP:colombia "EMISORAS"
+https://node-05.zeno.fm/qm8scvxtd5zuv?rj-ttl=5&rj-tok=AAABe-9lh_0AQdWbcwvkvEkdlQ
+
+#EXTINF:-1 ,La Santa Biblia En Vivo
+#EXTGRP:colombia "EMISORAS"
+https://node-28.zeno.fm/856q8t4quzzuv?rj-ttl=5&rj-tok=AAABe-9kKhAAglvyY3gnJaKXIQ
+
+#EXTINF:-1 ,Radio Tiempo Clasica
+#EXTGRP:colombia "EMISORAS"
+https://i70.letio.com/9188.aac
+
+#EXTINF:-1 ,La Gran Viejoteca
+#EXTGRP:colombia "EMISORAS"
+http://node-08.zeno.fm/n89ryz2day8uv?rj-ttl=5&rj-tok=AAABe-9famMALbgu4nf6qsuF7w
+
 #EXTINF:-1 ,Radio Lider ( venezuela)
 #EXTGRP:colombia "EMISORAS"
 https://node-20.zeno.fm/0bbtax2mva0uv?rj-ttl=5&rj-tok=AAABe-9PEtEAHv9NSk0VdiOQ1g
