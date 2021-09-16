@@ -1270,6 +1270,10 @@ https://radiohd.streaminghd.co:7390/stream
 #EXTGRP:colombia "EMISORAS"
 https://node-28.zeno.fm/hxkvs9b92mruv?rj-ttl=5&rj-tok=AAABe-81opoAAbPl5y02_ISoBQ
 
+#EXTINF:-1 ,Primavera Stereo
+#EXTGRP:colombia "EMISORAS"
+http://primaveraestereo.usuarios.space:8010/live
+
 #EXTINF:-1 ,UIS AM
 #EXTGRP:colombia "EMISORAS"
 http://emisoras.uis.edu.co:8000/mp3am
@@ -1289,6 +1293,38 @@ http://node-05.zeno.fm/pg9nkkxetv8uv?rj-ttl=5&rj-tok=AAABe-8tRAoAWLtqo_QAt_az9g
 #EXTINF:-1 ,Melodia Stereo
 #EXTGRP:colombia "EMISORAS"
 https://i90.letio.com/7000.aac
+
+#EXTINF:-1 ,La Perla Del Norte (cucuta)
+#EXTGRP:colombia "EMISORAS"
+http://node-19.zeno.fm/5574qz0yezzuv?rj-ttl=5&rj-tok=AAABe-_urzIA_0r8ncg6JswYxQ
+
+#EXTINF:-1 ,Latido Romantica (cucuta)
+#EXTGRP:colombia "EMISORAS"
+http://node-19.zeno.fm/5574qz0yezzuv?rj-ttl=5&rj-tok=AAABe-_urzIA_0r8ncg6JswYxQ
+
+#EXTINF:-1 ,Guaduas Stereo
+#EXTGRP:colombia "EMISORAS"
+https://hoth.alonhosting.com:2485/stream
+
+#EXTINF:-1 ,La Mega (bogota)
+#EXTGRP:colombia "EMISORAS"
+https://25053.live.streamtheworld.com/LA_MEGA_BOGAAC_SC
+
+#EXTINF:-1 ,Yariguies Stereo
+#EXTGRP:colombia "EMISORAS"
+https://estructuraweb.com.co:9339/stream
+
+#EXTINF:-1 ,Q'Hubo Radio
+#EXTGRP:colombia "EMISORAS"
+https://22983.live.streamtheworld.com/QHUBO_MEDELLINAAC_SC?dist=triton-widget&pname=tdwidgets
+
+#EXTINF:-1 ,Antena 2
+#EXTGRP:colombia "EMISORAS"
+https://21933.live.streamtheworld.com/ANTENA_2_BOGAAC_SC
+
+#EXTINF:-1 ,W Radio
+#EXTGRP:colombia "EMISORAS"
+https://18723.live.streamtheworld.com/WRADIOAAC_SC?csegid=10000
 
 #EXTINF:-1 ,La FM
 #EXTGRP:colombia "EMISORAS"
