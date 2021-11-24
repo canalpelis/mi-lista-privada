@@ -50,66 +50,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de58ef515635d0009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/572723/playlist.m3u8?terminate=false&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceVersion=13.1.2&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&deviceType=web&deviceMake=Safari&sid=4475d1fd-b481-48e5-a53b-5f01db39d963&advertisingId=&deviceLat=-33.0081&deviceLon=-71.5197&deviceDNT=0&deviceModel=Safari&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false
 #EXTINF:0 type="video" channelId="-1" name="185 Pluto TV Anime Accion" group="Pluto TV Latin"
 
-#EXTINF:-1 tvg-id="" tvg-name="STAR LIFE VGA" tvg-logo="http://xtreampanel.vip:2087/images/c4b199c93be7fc5f1a4fcb73e207881d.png" group-title="CINE Y SERIES PREMIUM 1",STAR LIFE VGA
-http://estoestv.com:2087/Casadelanona/HBDRWekcypry/72434
-#EXTINF:-1 tvg-id="" tvg-name="STAR LIFE SD" tvg-logo="http://xtreampanel.vip:2087/images/c4b199c93be7fc5f1a4fcb73e207881d.png" group-title="CINE Y SERIES PREMIUM 1",STAR LIFE SD
-http://estoestv.com:2087/Casadelanona/HBDRWekcypry/72435
-#EXTINF:-1 tvg-id="" tvg-name="STAR LIFE SD" tvg-logo="http://xtreampanel.vip:2087/images/c4b199c93be7fc5f1a4fcb73e207881d.png" group-title="CINE Y SERIES PREMIUM 1",STAR LIFE SD
-http://estoestv.com:2087/Casadelanona/HBDRWekcypry/72436
-#EXTINF:-1 tvg-id="" tvg-name="STAR SERIES FULL HD" tvg-logo="http://xtreampanel.vip:2087/images/2c0c1b0ac99e954a1900871114c69777.jpg" group-title="CINE Y SERIES PREMIUM 1",STAR SERIES FULL HD
-http://estoestv.com:2087/Casadelanona/HBDRWekcypry/72437
-#EXTINF:-1 tvg-id="" tvg-name="STAR SERIES FULL HD" tvg-logo="http://xtreampanel.vip:2087/images/2c0c1b0ac99e954a1900871114c69777.jpg" group-title="CINE Y SERIES PREMIUM 1",STAR SERIES FULL HD
-http://estoestv.com:2087/Casadelanona/HBDRWekcypry/72438
-#EXTINF:-1 tvg-id="" tvg-name="STAR SERIES SD" tvg-logo="http://xtreampanel.vip:2087/images/2c0c1b0ac99e954a1900871114c69777.jpg" group-title="CINE Y SERIES PREMIUM 1",STAR SERIES SD
-http://estoestv.com:2087/Casadelanona/HBDRWekcypry/72439
-#EXTINF:-1 tvg-id="" tvg-name="STAR CINEMA FULL HD" tvg-logo="http://xtreampanel.vip:2087/images/d827abedb4989ac740fa76ae15830ff5.png" group-title="CINE Y SERIES PREMIUM 1",STAR CINEMA FULL HD
-http://estoestv.com:2087/Casadelanona/HBDRWekcypry/72440
-#EXTINF:-1 tvg-id="" tvg-name="STAR CINEMA FULL HD" tvg-logo="http://xtreampanel.vip:2087/images/d827abedb4989ac740fa76ae15830ff5.png" group-title="CINE Y SERIES PREMIUM 1",STAR CINEMA FULL HD
-http://estoestv.com:2087/Casadelanona/HBDRWekcypry/72441
-#EXTINF:-1 tvg-id="" tvg-name="STAR CINEMA SD" tvg-logo="http://xtreampanel.vip:2087/images/d827abedb4989ac740fa76ae15830ff5.png" group-title="CINE Y SERIES PREMIUM 1",STAR CINEMA SD
-http://estoestv.com:2087/Casadelanona/HBDRWekcypry/72442
-#EXTINF:-1 tvg-id="" tvg-name="STAR CLASSIC SD" tvg-logo="http://xtreampanel.vip:2087/images/4577ff4638e742a24eb0795d5e9cb8f3.jpg" group-title="CINE Y SERIES PREMIUM 1",STAR CLASSIC SD
-http://estoestv.com:2087/Casadelanona/HBDRWekcypry/72443
-#EXTINF:-1 tvg-id="" tvg-name="STAR CLASSIC FULL HD" tvg-logo="http://xtreampanel.vip:2087/images/4577ff4638e742a24eb0795d5e9cb8f3.jpg" group-title="CINE Y SERIES PREMIUM 1",STAR CLASSIC FULL HD
-http://estoestv.com:2087/Casadelanona/HBDRWekcypry/72444
-#EXTINF:-1 tvg-id="" tvg-name="STAR CLASSIC SD" tvg-logo="http://xtreampanel.vip:2087/images/4577ff4638e742a24eb0795d5e9cb8f3.jpg" group-title="CINE Y SERIES PREMIUM 1",STAR CLASSIC SD
-http://estoestv.com:2087/Casadelanona/HBDRWekcypry/72445
-#EXTINF:-1 tvg-id="" tvg-name="SONY CHANNEL FULL HD" tvg-logo="https://i.ibb.co/F6MWhFt/sony.png" group-title="CINE Y SERIES PREMIUM 1",SONY CHANNEL FULL HD
-http://estoestv.com:2087/Casadelanona/HBDRWekcypry/72446
-#EXTINF:-1 tvg-id="" tvg-name="SONY CHANNEL FULL HD" tvg-logo="http://xtreampanel.vip:2087/images/33561003f44d374c719506bef4faeba4.png" group-title="CINE Y SERIES PREMIUM 1",SONY CHANNEL FULL HD
-http://estoestv.com:2087/Casadelanona/HBDRWekcypry/72447
-#EXTINF:-1 tvg-id="" tvg-name="SONY CHANNEL FULL HD" tvg-logo="https://i.ibb.co/F6MWhFt/sony.png" group-title="CINE Y SERIES PREMIUM 1",SONY CHANNEL FULL HD
-http://estoestv.com:2087/Casadelanona/HBDRWekcypry/72448
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT FULL HD" tvg-logo="https://i.ibb.co/WPd17t2/paramount.png" group-title="CINE Y SERIES PREMIUM 1",PARAMOUNT FULL HD
-http://estoestv.com:2087/Casadelanona/HBDRWekcypry/72449
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT FULL HD" tvg-logo="http://xtreampanel.vip:2087/images/4d0ec9644ed328af0eb2fa9cac57090e.png" group-title="CINE Y SERIES PREMIUM 1",PARAMOUNT FULL HD
-http://estoestv.com:2087/Casadelanona/HBDRWekcypry/72450
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT FULL HD" tvg-logo="https://i.ibb.co/WPd17t2/paramount.png" group-title="CINE Y SERIES PREMIUM 1",PARAMOUNT FULL HD
-http://estoestv.com:2087/Casadelanona/HBDRWekcypry/72451
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="https://i.ibb.co/X2zwWpm/tnt.png" group-title="CINE Y SERIES PREMIUM 1",TNT HD
-http://estoestv.com:2087/Casadelanona/HBDRWekcypry/72452
-#EXTINF:-1 tvg-id="" tvg-name="TNT FULL HD" tvg-logo="http://xtreampanel.vip:2087/images/6a7ef638f3cacf258370a83d3dc741ff.png" group-title="CINE Y SERIES PREMIUM 1",TNT FULL HD
-http://estoestv.com:2087/Casadelanona/HBDRWekcypry/72453
-#EXTINF:-1 tvg-id="" tvg-name="TNT FULL HD" tvg-logo="https://i.ibb.co/X2zwWpm/tnt.png" group-title="CINE Y SERIES PREMIUM 1",TNT FULL HD
-http://estoestv.com:2087/Casadelanona/HBDRWekcypry/72454
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES HD" tvg-logo="http://xtreampanel.vip:2087/images/4eee60c6f14eb1c18aaa2a02ba91991a.png" group-title="CINE Y SERIES PREMIUM 1",TNT SERIES HD
-http://estoestv.com:2087/Casadelanona/HBDRWekcypry/72455
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES FULL HD" tvg-logo="http://xtreampanel.vip:2087/images/4eee60c6f14eb1c18aaa2a02ba91991a.png" group-title="CINE Y SERIES PREMIUM 1",TNT SERIES FULL HD
-http://estoestv.com:2087/Casadelanona/HBDRWekcypry/72456
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES SD" tvg-logo="http://xtreampanel.vip:2087/images/4eee60c6f14eb1c18aaa2a02ba91991a.png" group-title="CINE Y SERIES PREMIUM 1",TNT SERIES SD
-http://estoestv.com:2087/Casadelanona/HBDRWekcypry/72457
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL FULL HD" tvg-logo="https://i.ibb.co/x8VN6rD/Universal-Channel.png" group-title="CINE Y SERIES PREMIUM 1",UNIVERSAL FULL HD
-http://estoestv.com:2087/Casadelanona/HBDRWekcypry/72458
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL HD" tvg-logo="https://i.ibb.co/x8VN6rD/Universal-Channel.png" group-title="CINE Y SERIES PREMIUM 1",UNIVERSAL HD
-http://estoestv.com:2087/Casadelanona/HBDRWekcypry/72459
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL SD" tvg-logo="http://xtreampanel.vip:2087/images/f50a7d0a62c6d9cc7af8776d6fc4f3d0.png" group-title="CINE Y SERIES PREMIUM 1",UNIVERSAL SD
-http://estoestv.com:2087/Casadelanona/HBDRWekcypry/72460
-#EXTINF:-1 tvg-id="" tvg-name="WARNER HD" tvg-logo="https://i.ibb.co/YfnqTts/warner.png" group-title="CINE Y SERIES PREMIUM 1",WARNER HD
-http://estoestv.com:2087/Casadelanona/HBDRWekcypry/72461
-#EXTINF:-1 tvg-id="" tvg-name="WARNER FULL HD" tvg-logo="http://xtreampanel.vip:2087/images/1660885848050e9ca9746ddd54e2de25.png" group-title="CINE Y SERIES PREMIUM 1",WARNER FULL HD
-http://estoestv.com:2087/Casadelanona/HBDRWekcypry/72462
-#EXTINF:-1 tvg-id="" tvg-name="WARNER FULL HD" tvg-logo="http://xtreampanel.vip:2087/images/1660885848050e9ca9746ddd54e2de25.png" group-title="CINE Y SERIES PREMIUM 1",WARNER FULL HD
-
 
 
 #EXTINF:-1 ,Ranchenato
