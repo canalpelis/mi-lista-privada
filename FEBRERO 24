@@ -168,10 +168,7 @@ https://fred.torontocast.com:2515/stream
 https://play10.tikast.com/proxy/lebrija?mp=/stream%E2%80%A8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="🇨🇴 || LOCAL | AMORDISCOS TV" tvg-logo="https://i1.wp.com/amordiscostv.com/wp-content/uploads/2021/02/thumbnail_Logo-Amordiscos-600x600-alpha.png?resize=150%2C150&ssl=1" group-title="🇨🇴 | COLOMBIA",🇨🇴 || LOCAL | AMORDISCOS TV
-http://diversionsinlimites.info:8080/live/Puente53783673992/Tames45289232439/349224.ts
-#EXTINF:-1 tvg-id="" tvg-name="🇨🇴 || LOCAL | AMORDISCOS TV2" tvg-logo="https://i1.wp.com/amordiscostv.com/wp-content/uploads/2021/02/thumbnail_Logo-Amordiscos-600x600-alpha.png?resize=150%2C150&ssl=1" group-title="🇨🇴 | COLOMBIA",🇨🇴 || LOCAL | AMORDISCOS TV 2
-https://stream.mediaserver.com.co:8088/hls/Amordiscos.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="🇨🇴 || LOCAL | AMORDISCOS TV 3" tvg-logo="https://i1.wp.com/amordiscostv.com/wp-content/uploads/2021/02/thumbnail_Logo-Amordiscos-600x600-alpha.png?resize=150%2C150&ssl=1" group-title="🇨🇴 | COLOMBIA",🇨🇴 || LOCAL | AMORDISCOS TV 3
 https://stream.mediaserver.com.co:8088/hls/canalamordiscos.m3u8
 
