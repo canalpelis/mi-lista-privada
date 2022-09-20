@@ -170,7 +170,7 @@ https://play10.tikast.com/proxy/lebrija?mp=/stream%E2%80%A8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="🇨🇴 || LOCAL | AMORDISCOS TV " tvg-logo="https://i1.wp.com/amordiscostv.com/wp-content/uploads/2021/02/thumbnail_Logo-Amordiscos-600x600-alpha.png?resize=150%2C150&ssl=1" group-title="🇨🇴 | COLOMBIA",🇨🇴 || LOCAL | AMORDISCOS TV 
-https://stream.mediaserver.com.co:8088/hls/canalamordiscos.m3u8
+https://stream.mediaserver.com.co:8088/hls/Amordiscos.m3u8
 
 #EXTINF:-1 tvg-id="Caracol.co" tvg-name="|🇨🇴| CARACOL FHD *" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Caracol_hd2_2015.png/revision/latest?cb=20170516000440" group-title="🇨🇴 | COLOMBIA",|🇨🇴| CARACOL FHD *
 http://diversionsinlimites.info:8080/live/CarlosGarcia1./AjgJakuBja26./380999.ts
